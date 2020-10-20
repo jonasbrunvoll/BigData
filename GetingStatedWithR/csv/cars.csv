@@ -1,0 +1,3119 @@
+Car;Age;Sex;Children;Price
+Sedan;23;M;0;155041
+Sedan;24;M;0;155090
+Sedan;19;M;0;155311
+Sedan;22;M;0;155733
+Sedan;21;M;1;155740
+Sedan;21;M;0;155989
+Sedan;22;M;1;156788
+Sedan;45;M;0;157638
+Sedan;22;M;0;158362
+Sedan;23;M;1;158487
+Sedan;20;M;0;158491
+Sedan;45;M;0;159116
+Sedan;23;M;0;159269
+Sedan;22;M;0;159549
+Sedan;22;M;1;159767
+Sedan;23;M;0;159819
+Sedan;22;M;0;160297
+Sedan;23;M;0;160347
+Sedan;19;M;0;160633
+Sedan;20;M;0;160890
+Sedan;22;M;0;161188
+Sedan;62;M;0;161272
+Sedan;21;M;0;161668
+Sedan;20;M;0;162126
+Sedan;24;M;0;162713
+Sedan;28;F;0;162784
+Sedan;19;M;1;163277
+Sedan;22;M;0;163420
+Sedan;20;F;1;163434
+Sedan;23;M;0;163562
+Sedan;24;M;0;163630
+Sedan;23;M;0;163786
+Sedan;22;M;1;164344
+Sedan;23;M;0;164363
+Sedan;23;M;1;164387
+Sedan;19;F;0;165252
+Sedan;23;M;0;165311
+Sedan;35;F;0;165381
+Sedan;19;F;1;165510
+Sedan;20;M;1;165703
+Sedan;23;M;0;165779
+Sedan;21;M;1;165945
+Sedan;21;F;1;165952
+Sedan;23;M;0;166012
+Sedan;20;M;0;166038
+Sedan;20;F;0;166237
+Sedan;19;F;0;166337
+Sedan;22;F;1;166340
+Sedan;23;F;1;166485
+Sedan;21;M;1;166516
+Sedan;19;F;0;166656
+Sedan;22;F;1;166756
+Sedan;21;F;0;166966
+Sedan;21;M;1;167048
+Sedan;24;M;0;167218
+Sedan;20;M;0;167278
+Sedan;19;F;0;167475
+Sedan;23;F;1;167539
+Sedan;21;M;0;167567
+Sedan;22;M;1;167714
+Sedan;21;F;0;167751
+Sedan;22;F;0;167845
+Sedan;19;F;1;167927
+Sedan;21;F;0;167958
+Sedan;18;F;0;167980
+Sedan;24;M;0;167996
+Sedan;19;F;1;168079
+Sedan;20;F;1;168271
+Sedan;19;F;1;168349
+Sedan;20;M;0;168446
+Sedan;23;M;1;168634
+Sedan;22;M;0;168639
+Sedan;18;F;0;168665
+Sedan;22;F;0;168735
+Sedan;23;M;0;168815
+Sedan;22;M;0;168999
+Sedan;21;F;0;169306
+Sedan;21;F;1;169514
+Sedan;20;M;0;169571
+Sedan;20;F;0;169660
+Sedan;18;F;0;169695
+Sedan;20;M;0;169723
+Sedan;20;F;0;169884
+Sedan;18;F;0;170023
+Sedan;21;M;1;170161
+Sedan;22;M;0;170342
+Sedan;21;M;0;170348
+Sedan;23;M;0;170431
+Sedan;22;M;1;170561
+Sedan;21;F;0;170638
+Sedan;23;M;0;170728
+Sedan;20;M;0;170778
+Sedan;20;F;0;171408
+Sedan;22;M;1;171472
+Sedan;23;F;0;171554
+Sedan;19;M;0;171668
+Sedan;21;M;0;171713
+Sedan;21;M;0;171725
+Sedan;20;F;0;171727
+Sedan;21;M;0;171829
+Sedan;20;M;1;172103
+Sedan;22;M;1;172432
+Sedan;72;F;0;172474
+Sedan;21;F;0;172974
+Sedan;20;F;0;173008
+Sedan;22;F;0;173276
+Sedan;22;F;0;173377
+Sedan;20;F;0;173450
+Sedan;24;M;1;173531
+Sedan;23;M;0;173554
+Sedan;21;M;0;173991
+Sedan;23;M;0;173992
+Sedan;52;M;0;174265
+Sedan;21;M;0;174356
+Sedan;23;F;0;174406
+Sedan;23;M;0;174645
+Sedan;22;F;0;174789
+Sedan;22;F;1;174880
+Sedan;22;F;0;175173
+Sedan;23;F;1;175441
+Sedan;22;F;0;175980
+Sedan;19;F;1;176358
+Sedan;22;F;1;176438
+Sedan;22;F;1;177276
+Sedan;19;F;0;177349
+Sedan;20;F;0;177601
+Sedan;20;F;0;177723
+Sedan;19;F;0;177740
+Sedan;19;F;0;177906
+Sedan;19;F;1;177941
+Sedan;21;F;0;178649
+Sedan;22;F;0;178951
+Sedan;22;F;0;179543
+Sedan;18;F;0;179783
+Sedan;20;F;0;179785
+Sedan;19;F;0;180236
+Sedan;20;F;0;180549
+Sedan;21;F;0;180583
+Sedan;22;F;0;180823
+Sedan;19;F;0;180867
+Sedan;20;F;0;180904
+Sedan;22;F;0;181063
+Sedan;18;F;0;181140
+Sedan;19;F;1;182004
+Sedan;20;F;1;183143
+Sedan;20;F;0;183397
+Sedan;20;F;1;183630
+Sedan;22;F;0;183737
+Sedan;20;F;0;184100
+Sedan;19;F;0;184305
+Sedan;18;F;0;184313
+Sedan;19;F;0;184389
+Sedan;21;M;0;185046
+Sedan;20;M;1;185489
+Sedan;24;M;0;185506
+Sedan;32;M;0;185640
+Sedan;24;M;1;186161
+Sedan;23;M;0;186545
+Sedan;20;M;1;186607
+Sedan;22;M;1;186739
+Sedan;22;M;1;187004
+Sedan;21;M;0;187187
+Sedan;24;M;0;187333
+Sedan;23;M;0;187474
+Sedan;25;M;0;188042
+Sedan;23;M;0;188154
+Sedan;22;M;1;188226
+Sedan;23;M;0;188868
+Sedan;24;M;1;189212
+Sedan;20;M;0;189332
+Sedan;21;M;1;189930
+Sedan;25;M;0;189996
+Sedan;21;M;0;190025
+Sedan;23;M;0;190558
+Sedan;22;M;0;190580
+Sedan;24;M;1;190878
+Sedan;24;M;0;190932
+Sedan;22;M;0;190955
+Sedan;23;M;0;191015
+Sedan;21;M;0;192029
+Sedan;22;M;1;192100
+Sedan;24;M;0;192298
+Sedan;24;M;0;193016
+Sedan;21;M;0;193129
+Sedan;21;M;0;193584
+Sedan;21;M;0;193757
+Sedan;23;M;0;194204
+Sedan;23;M;1;194623
+Sedan;21;M;0;194732
+Sedan;23;M;1;195561
+Sedan;24;M;1;196311
+Sedan;24;M;0;196896
+Sedan;21;M;0;197111
+Sedan;21;M;0;197186
+Sedan;22;M;0;197288
+Sedan;20;M;1;197353
+Sedan;25;M;0;198637
+Sedan;25;F;0;198833
+Sedan;24;M;0;198907
+Sedan;24;M;0;199115
+Sedan;21;M;0;199146
+Sedan;22;M;0;199183
+Sedan;24;M;0;199297
+Sedan;21;M;0;199412
+Sedan;21;M;1;199597
+Sedan;24;M;0;199601
+Sedan;23;M;0;199772
+Sedan;22;M;1;199784
+Sedan;23;F;1;200109
+Sedan;23;F;1;200198
+Sedan;25;F;0;200225
+Sedan;24;M;0;200259
+Sedan;23;F;0;200366
+Sedan;21;M;0;200431
+Sedan;26;F;0;200474
+Sedan;22;F;0;200532
+Sedan;22;M;0;200640
+Sedan;27;F;0;200700
+Sedan;26;F;1;200846
+Sedan;22;M;0;200862
+Sedan;22;F;1;201198
+Sedan;22;M;0;201270
+Sedan;23;M;0;201314
+Sedan;26;F;0;201374
+Sedan;25;F;0;201492
+Sedan;24;F;0;201493
+Sedan;23;M;0;201679
+Sedan;24;M;1;201785
+Sedan;23;F;0;201912
+Sedan;25;F;0;202102
+Sedan;20;M;0;202210
+Sedan;25;M;0;202245
+Sedan;24;M;1;202399
+Sedan;23;F;0;202457
+Sedan;24;F;0;202627
+Sedan;23;M;0;202650
+Sedan;23;M;0;202915
+Sedan;22;F;0;202942
+Sedan;24;M;0;203164
+Sedan;22;M;1;203353
+Sedan;24;F;1;203519
+Sedan;23;M;0;203528
+Sedan;24;F;0;203573
+Sedan;23;F;0;203578
+Sedan;25;F;0;203616
+Sedan;25;M;0;203742
+Sedan;23;F;1;204000
+Sedan;21;M;0;204036
+Sedan;27;F;0;204302
+Sedan;25;F;0;204436
+Sedan;22;M;0;204493
+Sedan;26;F;0;204859
+Sedan;22;M;0;204899
+Sedan;25;F;0;205130
+Sedan;24;F;0;205140
+Sedan;25;F;1;205512
+Sedan;24;F;0;205876
+Sedan;22;F;0;205998
+Sedan;25;F;0;206021
+Sedan;24;F;0;206515
+Sedan;25;F;0;207041
+Sedan;22;F;1;207769
+Sedan;27;F;0;208104
+Sedan;72;F;0;208691
+Sedan;27;F;0;208973
+Sedan;26;F;0;209067
+Sedan;23;F;0;209449
+Sedan;26;F;0;209514
+Sedan;22;F;1;210063
+Sedan;25;F;1;210587
+Station Wagon;34;M;3;210626
+Station Wagon;32;M;3;210664
+Station Wagon;33;M;3;210908
+Sedan;23;F;0;211058
+Station Wagon;34;M;3;211084
+Sedan;26;F;0;211518
+Station Wagon;32;M;3;211684
+Station Wagon;61;M;4;211735
+Station Wagon;32;M;3;211756
+Sedan;23;F;1;211849
+Station Wagon;31;M;3;211918
+Station Wagon;32;M;3;212255
+Station Wagon;32;F;3;212594
+Station Wagon;31;M;3;212788
+Sedan;23;F;0;212928
+Station Wagon;30;M;3;212930
+Sedan;26;F;0;213064
+Sedan;23;F;1;213178
+Sedan;23;F;1;213178
+Station Wagon;33;M;3;213323
+Sedan;27;F;0;213747
+Sedan;23;F;1;213786
+Sedan;25;F;1;213846
+Station Wagon;34;M;3;214036
+Sedan;26;F;0;214134
+Station Wagon;32;M;3;214159
+Station Wagon;31;M;3;214204
+Sedan;26;F;0;214419
+Sedan;25;F;0;214495
+Sedan;22;F;1;214689
+Sedan;26;F;0;214754
+Sedan;27;F;0;214839
+Station Wagon;32;M;4;214865
+Station Wagon;34;M;4;214900
+Sedan;26;F;0;214973
+Station Wagon;34;M;3;215140
+Sedan;23;F;0;215195
+Sedan;23;F;0;215339
+Station Wagon;32;M;3;215539
+Sedan;22;F;0;215704
+Sedan;25;F;1;215704
+Station Wagon;34;F;3;215774
+Sedan;24;F;1;216132
+Station Wagon;34;M;4;216290
+Sedan;25;F;0;216397
+Station Wagon;30;M;3;216398
+Station Wagon;34;M;3;216417
+Sedan;23;F;0;216601
+Station Wagon;34;M;3;216715
+Station Wagon;33;M;4;216847
+Sedan;23;F;0;216861
+Station Wagon;33;M;4;216955
+Station Wagon;31;M;4;216975
+Sedan;26;F;1;217068
+Station Wagon;33;M;4;217120
+Station Wagon;34;M;3;217184
+Sedan;25;F;0;217248
+Sedan;24;F;1;217268
+Station Wagon;34;M;3;217288
+Sedan;24;F;0;217381
+Sedan;23;F;1;217842
+Station Wagon;33;M;3;217888
+Station Wagon;32;M;4;217982
+Station Wagon;32;M;3;218033
+Sedan;25;F;0;218403
+Station Wagon;33;M;3;218617
+Station Wagon;33;M;3;218763
+Sedan;25;F;1;218787
+Station Wagon;31;M;3;218825
+Station Wagon;34;M;4;219155
+Station Wagon;31;M;3;219300
+Sedan;25;F;1;219675
+Station Wagon;34;M;3;219722
+Sedan;25;F;0;219800
+Station Wagon;35;M;3;220033
+Station Wagon;32;M;3;220216
+Station Wagon;32;M;3;220390
+Station Wagon;34;M;4;220537
+Station Wagon;34;M;3;220791
+Station Wagon;34;M;3;220896
+Station Wagon;33;M;4;220967
+Station Wagon;34;M;3;221119
+Station Wagon;34;M;3;221324
+Station Wagon;33;M;4;221505
+Station Wagon;34;M;3;221597
+Station Wagon;32;M;3;221745
+Station Wagon;34;M;3;221893
+Station Wagon;34;M;3;222024
+Station Wagon;33;M;3;222841
+Station Wagon;35;M;3;222862
+Station Wagon;34;M;3;222878
+Station Wagon;32;M;3;223347
+Station Wagon;34;M;3;223641
+Station Wagon;33;M;3;223942
+Station Wagon;35;M;3;224142
+Station Wagon;32;M;3;224351
+Station Wagon;32;M;3;225930
+Station Wagon;34;M;3;226188
+Station Wagon;30;M;4;226370
+Station Wagon;34;M;3;226517
+Station Wagon;34;M;3;226704
+Station Wagon;31;M;3;226900
+Station Wagon;34;M;4;227095
+Station Wagon;31;M;3;227644
+Station Wagon;33;M;3;228134
+Station Wagon;35;M;3;228347
+Station Wagon;33;M;4;228513
+Station Wagon;33;M;4;228637
+Station Wagon;34;M;3;228639
+Station Wagon;35;F;3;229886
+Station Wagon;30;M;3;240134
+Station Wagon;32;M;2;240674
+Station Wagon;34;M;3;240688
+Station Wagon;31;M;3;240999
+Station Wagon;32;M;3;241224
+Station Wagon;35;M;2;241313
+Station Wagon;32;M;3;241323
+Station Wagon;31;M;3;241462
+Station Wagon;33;M;2;241763
+Station Wagon;33;M;2;242349
+Station Wagon;34;M;3;242846
+Station Wagon;35;M;2;243054
+Station Wagon;35;M;3;243274
+Station Wagon;34;M;2;243613
+Station Wagon;32;M;2;244046
+Station Wagon;32;M;2;244797
+Station Wagon;32;M;3;244828
+Station Wagon;33;M;2;245237
+Station Wagon;35;M;3;245860
+Station Wagon;30;M;2;247586
+Station Wagon;30;M;2;247720
+Station Wagon;30;M;3;248087
+Station Wagon;35;M;2;248502
+Station Wagon;32;M;2;248798
+Station Wagon;31;M;3;249077
+Station Wagon;33;M;3;249143
+Station Wagon;35;M;3;249331
+Station Wagon;34;M;2;249565
+Station Wagon;31;M;2;250234
+Station Wagon;32;M;2;250243
+Station Wagon;32;M;3;250574
+Station Wagon;30;M;3;250601
+Station Wagon;34;M;2;250801
+Station Wagon;32;M;2;250952
+Station Wagon;33;M;3;251661
+Station Wagon;35;M;2;251807
+Station Wagon;34;M;2;252189
+Station Wagon;33;M;2;252268
+Station Wagon;33;M;2;252324
+Station Wagon;32;M;2;252400
+Station Wagon;30;M;2;252469
+Station Wagon;30;M;2;252572
+Station Wagon;34;M;2;253675
+Station Wagon;33;M;2;253982
+Station Wagon;32;M;2;254158
+Station Wagon;35;M;2;254499
+Station Wagon;31;M;2;254501
+Station Wagon;31;M;3;254653
+Station Wagon;34;M;2;254840
+Station Wagon;34;M;2;254841
+Station Wagon;33;M;3;254958
+Station Wagon;30;M;2;255060
+Station Wagon;34;M;2;255120
+Station Wagon;31;M;3;255195
+Station Wagon;34;M;3;255453
+Station Wagon;30;M;3;255560
+Station Wagon;32;M;3;256342
+Station Wagon;33;M;2;257045
+Station Wagon;32;M;3;257277
+Station Wagon;32;M;3;257430
+Station Wagon;34;M;2;257513
+Station Wagon;34;M;3;257575
+Station Wagon;35;M;3;257917
+Station Wagon;31;M;2;257992
+Station Wagon;32;M;2;258132
+Station Wagon;31;M;2;258620
+Station Wagon;32;M;2;258695
+Station Wagon;31;M;2;258808
+Station Wagon;34;M;2;258938
+Station Wagon;31;M;2;259313
+Station Wagon;34;M;2;259330
+Station Wagon;33;M;2;259391
+Station Wagon;34;M;2;259498
+Station Wagon;33;M;2;259634
+Station Wagon;35;M;2;259677
+Station Wagon;34;M;3;259709
+Station Wagon;39;F;3;270177
+Station Wagon;41;F;3;270298
+Station Wagon;41;F;3;270515
+Station Wagon;39;F;3;271602
+Station Wagon;39;F;4;271761
+Station Wagon;42;F;4;271866
+Station Wagon;41;F;4;271913
+Station Wagon;40;F;4;271984
+Station Wagon;41;F;3;272621
+Station Wagon;41;F;4;272655
+Station Wagon;43;F;3;272845
+Station Wagon;40;F;3;273307
+Station Wagon;40;F;3;273647
+Station Wagon;39;F;3;274328
+Station Wagon;41;F;3;274786
+Station Wagon;41;F;3;275031
+Station Wagon;41;F;4;275199
+Station Wagon;40;F;3;275306
+Station Wagon;39;F;3;275601
+Station Wagon;40;F;3;275697
+Station Wagon;41;F;4;275748
+Station Wagon;40;F;3;275919
+Station Wagon;41;F;3;276021
+Station Wagon;42;F;3;276060
+Station Wagon;38;F;3;276414
+Station Wagon;43;F;3;276524
+Station Wagon;39;F;3;276539
+Station Wagon;42;F;3;276675
+Station Wagon;40;F;3;276796
+Station Wagon;38;F;3;276936
+Station Wagon;41;F;4;276982
+Station Wagon;42;F;3;277079
+Station Wagon;39;F;3;277191
+Station Wagon;41;F;4;278286
+Station Wagon;40;F;4;278290
+Station Wagon;40;F;3;278592
+Station Wagon;41;F;3;278762
+Station Wagon;43;F;3;279122
+Station Wagon;42;F;3;279805
+Station Wagon;42;F;3;280139
+Station Wagon;39;F;4;280195
+Station Wagon;39;F;3;280912
+Station Wagon;43;F;3;281034
+Station Wagon;42;F;4;281255
+Station Wagon;42;F;3;281363
+Station Wagon;39;F;3;281515
+Station Wagon;38;F;4;282403
+Station Wagon;39;F;4;282675
+Station Wagon;39;F;3;282692
+Station Wagon;39;F;4;283233
+Station Wagon;42;F;3;283488
+Station Wagon;42;F;3;283559
+Station Wagon;38;F;3;283613
+Station Wagon;41;F;3;283997
+Station Wagon;38;F;3;284708
+Station Wagon;40;F;3;284841
+Station Wagon;39;F;4;284940
+Station Wagon;42;F;3;285010
+Station Wagon;43;F;3;285371
+Station Wagon;40;M;2;285400
+Station Wagon;39;M;2;285412
+Station Wagon;39;F;4;285431
+Station Wagon;43;F;3;285510
+Station Wagon;40;F;3;285927
+Station Wagon;39;F;3;285950
+Station Wagon;38;F;3;286192
+Station Wagon;36;M;2;286539
+Station Wagon;42;F;3;286579
+Station Wagon;37;M;2;286712
+Station Wagon;43;F;4;287000
+Station Wagon;42;F;3;287008
+Station Wagon;38;F;4;287225
+Station Wagon;37;M;2;287311
+Station Wagon;42;F;3;287462
+Station Wagon;39;F;3;287555
+Station Wagon;39;M;2;287682
+Station Wagon;36;M;2;287830
+Station Wagon;35;M;3;287858
+Station Wagon;40;F;3;288092
+Station Wagon;39;M;2;288100
+Station Wagon;35;M;2;288134
+Station Wagon;37;M;2;288140
+Station Wagon;37;M;2;288189
+Station Wagon;39;F;3;288195
+Station Wagon;38;F;3;288197
+Station Wagon;37;M;2;288336
+Station Wagon;40;F;3;288433
+Station Wagon;39;M;3;288538
+Station Wagon;38;M;2;288610
+Station Wagon;37;M;3;289283
+Station Wagon;36;M;2;289616
+Station Wagon;43;F;3;289628
+Station Wagon;35;M;3;289984
+Station Wagon;40;M;3;290050
+Station Wagon;37;M;2;290306
+Station Wagon;35;M;2;290459
+Station Wagon;39;M;2;290664
+Station Wagon;40;M;2;290681
+Station Wagon;39;M;3;290695
+Station Wagon;35;M;3;290829
+Station Wagon;38;M;2;291013
+Station Wagon;35;M;3;292040
+Station Wagon;38;M;2;292507
+Station Wagon;39;M;2;292620
+Station Wagon;40;M;2;292754
+Station Wagon;37;M;3;293535
+Station Wagon;39;M;2;293735
+Station Wagon;39;M;2;293926
+Station Wagon;39;M;2;294018
+Station Wagon;40;M;3;294143
+Station Wagon;36;M;2;294400
+Station Wagon;39;M;3;295233
+Station Wagon;36;M;2;295236
+Station Wagon;40;M;2;295276
+Station Wagon;36;M;2;295616
+Station Wagon;36;M;2;295740
+Station Wagon;39;M;2;295807
+Station Wagon;39;M;3;296178
+Station Wagon;35;M;2;296208
+Station Wagon;39;M;3;296271
+Station Wagon;39;M;3;296454
+Station Wagon;37;M;2;297745
+Station Wagon;39;M;3;297916
+Station Wagon;39;M;2;297924
+Station Wagon;36;M;2;298029
+Station Wagon;36;M;3;298347
+Station Wagon;39;M;3;299046
+Station Wagon;38;M;2;299115
+Station Wagon;35;M;2;299298
+Station Wagon;36;M;2;299689
+Station Wagon;39;M;2;299840
+Station Wagon;39;M;2;300240
+Station Wagon;36;F;2;300430
+Station Wagon;36;M;2;300600
+Station Wagon;33;M;3;300742
+Station Wagon;39;M;2;301010
+Station Wagon;36;M;2;301050
+Station Wagon;31;M;3;301070
+Station Wagon;34;M;3;301228
+Station Wagon;33;M;3;301329
+Station Wagon;35;M;3;301397
+Station Wagon;39;M;2;301528
+Station Wagon;32;M;4;301557
+Station Wagon;36;M;2;301642
+Station Wagon;35;M;3;301776
+Station Wagon;39;M;2;301850
+Station Wagon;36;M;2;302131
+Station Wagon;37;M;2;302385
+Station Wagon;33;M;4;302401
+Station Wagon;36;M;2;302446
+Station Wagon;35;M;2;302913
+Station Wagon;31;M;4;302918
+Station Wagon;36;M;3;303009
+Station Wagon;34;M;3;303161
+Station Wagon;36;M;2;303196
+Station Wagon;32;M;3;303208
+Station Wagon;38;M;3;303309
+Station Wagon;40;M;2;303635
+Station Wagon;39;M;2;303670
+Station Wagon;33;M;3;303782
+Station Wagon;32;M;3;303921
+Station Wagon;35;M;2;304136
+Station Wagon;33;M;4;304476
+Station Wagon;37;M;2;304494
+Station Wagon;34;M;3;304821
+Station Wagon;33;M;4;304834
+Station Wagon;32;M;4;304847
+Station Wagon;39;M;3;304911
+Station Wagon;38;M;2;305000
+Station Wagon;32;M;3;305128
+Station Wagon;35;M;3;305376
+Station Wagon;34;M;3;305633
+Station Wagon;34;M;3;305854
+Station Wagon;35;M;3;305987
+Station Wagon;34;M;4;306246
+Station Wagon;35;M;4;306507
+Station Wagon;36;M;3;306719
+Station Wagon;34;M;3;306749
+Station Wagon;34;M;3;307340
+Station Wagon;34;M;3;307753
+Station Wagon;32;M;3;307996
+Station Wagon;33;M;4;308073
+Station Wagon;34;M;4;308502
+Station Wagon;32;M;3;308660
+Station Wagon;33;M;3;308727
+Station Wagon;34;M;4;308963
+Station Wagon;35;M;3;308999
+Station Wagon;32;M;3;309212
+Station Wagon;32;M;3;309481
+Station Wagon;36;M;3;309533
+Station Wagon;31;M;3;309580
+Station Wagon;36;M;3;309604
+Station Wagon;35;M;4;309678
+Station Wagon;36;M;3;309846
+Sedan;28;M;1;310265
+Sedan;27;M;1;310367
+Station Wagon;26;F;1;310458
+Station Wagon;36;M;4;310812
+Station Wagon;34;F;4;310925
+Station Wagon;29;F;1;310990
+Station Wagon;27;F;1;311053
+Station Wagon;25;F;1;311071
+Sedan;29;M;0;311173
+Station Wagon;35;M;3;311229
+Station Wagon;33;M;3;311353
+Sedan;26;M;1;311444
+Station Wagon;31;M;4;311460
+Sedan;31;M;1;311546
+Sedan;27;M;0;311553
+Station Wagon;35;M;3;311572
+Station Wagon;26;F;2;311770
+Sedan;27;M;0;311889
+Station Wagon;24;F;1;312018
+Sedan;30;M;0;312279
+Station Wagon;34;M;4;312352
+Station Wagon;25;F;2;312454
+Station Wagon;35;M;3;312484
+Station Wagon;28;F;2;312632
+Station Wagon;28;F;2;312899
+Station Wagon;34;M;3;312947
+Sedan;29;M;0;312999
+Sedan;29;F;0;313004
+Station Wagon;31;M;3;313043
+Sedan;27;M;1;313104
+Station Wagon;25;F;1;313118
+Station Wagon;29;F;1;313133
+Sedan;29;M;0;313306
+Station Wagon;28;F;1;313344
+Station Wagon;25;F;1;313454
+Station Wagon;32;M;3;313471
+Station Wagon;32;M;3;313528
+Station Wagon;36;M;4;313707
+Station Wagon;32;M;3;313825
+Station Wagon;35;M;3;313910
+Sedan;28;M;0;313921
+Sedan;27;M;0;314051
+Station Wagon;33;M;3;314077
+Sedan;29;M;0;314148
+Sedan;29;M;0;314152
+Station Wagon;35;M;3;314187
+Station Wagon;29;F;1;314280
+Sedan;29;M;0;314313
+Sedan;30;M;0;314369
+Sedan;29;M;1;314751
+Station Wagon;26;F;1;314957
+Station Wagon;25;F;1;315043
+Station Wagon;36;M;3;315062
+Sedan;28;M;0;315206
+Sedan;30;M;0;315396
+Sedan;30;M;0;315603
+Station Wagon;33;M;4;315793
+Station Wagon;36;M;4;316035
+Station Wagon;27;F;1;316186
+Station Wagon;26;F;2;316289
+Station Wagon;32;M;3;316473
+Station Wagon;28;F;1;316611
+Station Wagon;27;F;1;316636
+Sedan;29;M;0;316749
+Station Wagon;25;F;2;316777
+Station Wagon;25;F;1;316914
+Sedan;30;M;1;317054
+Station Wagon;28;F;1;317300
+Sedan;29;M;0;317368
+Station Wagon;26;F;2;317504
+Station Wagon;35;M;3;317536
+Station Wagon;29;F;1;317721
+Sedan;30;M;0;317743
+Station Wagon;33;M;3;317826
+Station Wagon;32;M;4;317833
+Sedan;29;M;0;317946
+Station Wagon;31;M;3;318102
+Station Wagon;26;F;1;318136
+Station Wagon;24;F;1;318172
+Station Wagon;35;M;3;318192
+Station Wagon;24;F;2;318394
+Station Wagon;27;F;2;318452
+Station Wagon;28;F;1;318624
+Station Wagon;27;F;1;318679
+Station Wagon;25;F;1;318702
+Station Wagon;34;M;3;318708
+Sedan;28;M;0;318729
+Station Wagon;33;M;4;318833
+Station Wagon;26;F;1;318937
+Station Wagon;32;M;3;319089
+Station Wagon;33;M;3;319131
+Sedan;27;M;0;319207
+Station Wagon;25;F;1;319230
+Sedan;28;M;1;319349
+Sedan;29;M;1;319390
+Station Wagon;32;M;3;319453
+Sedan;28;M;1;319552
+Sedan;30;M;0;319576
+Station Wagon;34;M;3;319628
+Station Wagon;24;F;1;319677
+Station Wagon;27;F;1;319702
+Sedan;29;M;0;319750
+Sedan;28;M;0;319814
+Station Wagon;27;F;1;319831
+Station Wagon;33;M;4;319846
+Sedan;29;M;1;319850
+Station Wagon;28;F;1;320031
+Station Wagon;31;F;2;320102
+Station Wagon;33;M;2;320209
+Station Wagon;29;F;2;320302
+Station Wagon;30;M;2;320485
+Sedan;29;M;0;320504
+Station Wagon;28;F;1;320601
+Sedan;29;M;0;320775
+Sedan;29;M;0;320946
+Sedan;27;M;0;321016
+Station Wagon;33;M;2;321059
+Station Wagon;25;F;2;321175
+Sedan;27;M;1;321179
+Sedan;28;M;0;321247
+Sedan;26;M;1;321270
+Station Wagon;31;M;2;321284
+Sedan;31;M;0;321338
+Station Wagon;28;M;3;321449
+Station Wagon;28;M;2;321550
+Station Wagon;32;M;2;321603
+Sedan;29;M;0;321668
+Station Wagon;25;F;1;321677
+Station Wagon;29;M;2;321678
+Sedan;28;M;0;321987
+Station Wagon;28;M;2;321992
+Station Wagon;31;M;2;321993
+Sedan;28;M;0;322053
+Station Wagon;29;F;2;322098
+Station Wagon;29;F;2;322109
+Station Wagon;27;F;2;322132
+Station Wagon;29;M;2;322540
+Station Wagon;25;F;1;322561
+Station Wagon;27;F;1;322602
+Station Wagon;28;F;1;322623
+Station Wagon;26;F;1;322736
+Station Wagon;27;F;1;322774
+Station Wagon;26;F;1;322877
+Sedan;31;M;0;322962
+Sedan;29;M;0;323028
+Station Wagon;28;F;1;323067
+Station Wagon;31;M;2;323108
+Station Wagon;25;F;2;323408
+Station Wagon;24;F;1;323487
+Station Wagon;29;M;2;323587
+Station Wagon;32;M;2;323811
+Station Wagon;30;M;2;323876
+Sedan;29;M;1;323894
+Sedan;31;M;1;324008
+Sedan;30;M;0;324118
+Station Wagon;29;M;2;324196
+Sedan;31;M;0;324421
+Sedan;30;M;0;324653
+Sedan;27;M;0;324979
+Station Wagon;29;F;2;324996
+Sedan;60;F;3;325010
+Sedan;26;M;0;325037
+Station Wagon;25;F;2;325110
+Sedan;70;F;4;325146
+Sedan;29;M;1;325202
+Sedan;61;F;4;325356
+Sedan;74;F;4;325398
+Sedan;73;F;4;325441
+Station Wagon;33;F;2;325492
+Sedan;60;F;3;325536
+Sedan;28;M;1;325608
+Sedan;74;F;3;325661
+Station Wagon;33;M;3;325677
+Station Wagon;27;F;1;325768
+Station Wagon;26;F;2;325868
+Sedan;61;F;4;325883
+Sedan;70;F;3;325884
+Sedan;27;M;1;325943
+Station Wagon;27;F;1;325973
+Sedan;27;M;1;325985
+Station Wagon;26;F;1;325986
+Sedan;72;F;4;326052
+Station Wagon;32;M;2;326072
+Sedan;63;F;3;326158
+Station Wagon;30;M;3;326161
+Station Wagon;29;F;2;326303
+Station Wagon;31;M;2;326334
+Sedan;26;M;1;326478
+Sedan;74;F;3;326481
+Sedan;27;M;0;326504
+Sedan;70;F;3;326608
+Sedan;74;F;3;326627
+Sedan;65;F;4;326716
+Station Wagon;29;M;2;326719
+Sedan;28;M;0;326728
+Sedan;62;F;4;326751
+Station Wagon;29;M;2;326807
+Sedan;62;F;3;326905
+Sedan;65;F;3;326923
+Station Wagon;32;M;3;326945
+Sedan;63;F;3;326977
+Station Wagon;29;M;3;327041
+Sedan;26;M;0;327158
+Station Wagon;25;F;2;327213
+Sedan;65;F;3;327231
+Sedan;27;M;0;327320
+Station Wagon;26;F;1;327341
+Sedan;63;F;4;327344
+Sedan;70;F;4;327363
+Sedan;64;F;3;327402
+Sedan;63;F;3;327457
+Station Wagon;27;F;1;327591
+Station Wagon;32;M;2;327651
+Sedan;61;F;3;327835
+Sedan;71;F;4;327902
+Sedan;29;M;0;327960
+Sedan;73;F;3;327967
+Station Wagon;25;F;2;328064
+Sedan;61;F;4;328067
+Station Wagon;29;M;2;328088
+Sedan;27;M;0;328127
+Station Wagon;29;F;3;328268
+Station Wagon;31;M;2;328297
+Sedan;74;F;3;328330
+Station Wagon;28;F;1;328364
+Station Wagon;26;F;1;328412
+Sedan;30;M;1;328418
+Sedan;28;M;1;328420
+Station Wagon;30;M;2;328440
+Sedan;29;M;0;328440
+Sedan;61;F;3;328498
+Station Wagon;26;F;2;328535
+Station Wagon;29;M;2;328540
+Sedan;62;F;3;328585
+Sedan;27;M;0;328616
+Sedan;71;F;3;328659
+Sedan;61;F;3;328670
+Station Wagon;25;F;2;328701
+Sedan;73;F;3;328963
+Sedan;26;M;0;328999
+Sedan;72;F;4;329062
+Station Wagon;24;F;1;329079
+Station Wagon;28;F;1;329093
+Station Wagon;27;F;1;329170
+Sedan;70;F;3;329188
+Station Wagon;27;F;2;329262
+Sedan;26;M;0;329273
+Sedan;26;M;0;329346
+Sedan;60;F;3;329348
+Station Wagon;28;F;1;329359
+Station Wagon;32;M;3;329410
+Sedan;63;F;3;329411
+Sedan;74;F;4;329439
+Station Wagon;30;M;2;329505
+Station Wagon;29;M;2;329537
+Station Wagon;31;M;2;329540
+Station Wagon;29;M;3;329565
+Station Wagon;25;F;1;329604
+Sedan;71;F;3;329616
+Station Wagon;27;F;1;329723
+Sedan;30;M;1;329798
+Station Wagon;28;M;3;329867
+Station Wagon;27;F;1;329891
+Sedan;30;M;0;329901
+Sedan;63;F;3;329910
+Sedan;64;F;3;329923
+Sedan;74;F;4;329947
+Sedan;65;F;3;329966
+Sedan;62;F;3;330032
+Sedan;72;F;4;330092
+Sedan;61;F;3;330191
+Sedan;70;F;3;330401
+Sedan;72;F;4;330412
+Sedan;64;F;3;330527
+Sedan;72;F;3;330597
+Sedan;63;F;3;330609
+Sedan;61;F;4;330764
+Sedan;65;F;3;330919
+Sedan;71;F;4;330925
+Sedan;61;F;3;330941
+Sedan;65;F;3;331013
+Sedan;72;F;4;331032
+Station Wagon;33;M;2;331259
+Sedan;75;F;3;331288
+Station Wagon;30;M;2;331391
+Sedan;64;F;3;331430
+Sedan;63;F;4;331476
+Sedan;73;F;3;331497
+Sedan;63;F;3;331530
+Sedan;71;F;3;331538
+Station Wagon;31;M;2;331572
+Sedan;60;F;4;331614
+Station Wagon;32;F;2;331675
+Sedan;72;F;3;331715
+Station Wagon;30;M;2;331739
+Sedan;75;F;3;331742
+Station Wagon;28;F;2;331829
+Sedan;62;F;3;331934
+Sedan;62;F;3;331981
+Sedan;63;F;3;331984
+SUV;64;F;3;332048
+Sedan;71;F;4;332099
+Sedan;64;F;3;332113
+Station Wagon;43;M;2;332168
+Station Wagon;42;M;2;332185
+Station Wagon;40;M;3;332220
+Station Wagon;42;M;2;332225
+Sedan;61;F;3;332307
+Sedan;71;F;4;332329
+Sedan;71;F;3;332385
+Sedan;62;F;4;332484
+Station Wagon;29;M;2;332502
+Station Wagon;31;F;2;332546
+Station Wagon;31;M;3;332627
+Station Wagon;30;M;2;332684
+Sedan;74;F;3;333052
+Station Wagon;33;M;2;333090
+Sedan;63;F;4;333161
+Station Wagon;41;M;2;333349
+Station Wagon;45;M;2;333396
+Sedan;71;F;4;333592
+Station Wagon;29;M;3;333631
+Station Wagon;40;M;3;333635
+Station Wagon;29;F;2;333653
+Sedan;71;F;3;333810
+Station Wagon;31;M;2;333912
+Station Wagon;30;M;2;334024
+Sedan;63;F;3;334044
+Sedan;62;F;3;334061
+Station Wagon;30;M;3;334089
+Sedan;65;F;3;334094
+Sedan;63;F;3;334109
+Sedan;73;F;3;334184
+Sedan;61;F;3;334228
+Station Wagon;30;M;2;334247
+Sedan;73;F;4;334281
+Station Wagon;28;M;2;334377
+Sedan;65;F;4;334433
+Sedan;62;F;4;334436
+Sedan;61;F;3;334445
+Sedan;63;F;3;334450
+Sedan;71;F;3;334511
+Sedan;70;F;3;334520
+Station Wagon;29;M;3;334637
+Sedan;73;F;3;334674
+Station Wagon;32;M;3;334812
+Sedan;71;F;3;334812
+Station Wagon;40;M;3;334867
+Station Wagon;43;M;2;335014
+Sedan;72;F;3;335087
+Sedan;62;F;4;335108
+Sedan;60;F;3;335160
+Sedan;64;F;3;335343
+Sedan;63;F;3;335369
+Sedan;62;F;3;335427
+Sedan;73;F;3;335429
+Sedan;62;F;3;335583
+Station Wagon;29;M;3;335619
+Station Wagon;28;M;3;335622
+Sedan;75;F;3;335637
+Station Wagon;41;M;2;335687
+Sedan;62;F;3;335697
+Station Wagon;41;F;2;335797
+Station Wagon;30;M;3;335813
+Station Wagon;28;M;2;335944
+Sedan;63;F;4;335998
+Sedan;63;F;4;336080
+Station Wagon;28;M;2;336158
+Sedan;62;F;3;336188
+Sedan;63;F;4;336192
+Station Wagon;40;M;2;336231
+Station Wagon;43;M;3;336292
+Station Wagon;29;M;2;336377
+Sedan;64;F;4;336501
+Sedan;60;F;3;336661
+Station Wagon;44;M;2;336694
+Sedan;73;F;3;336875
+Station Wagon;45;M;3;336893
+Sedan;61;F;3;336968
+Sedan;64;F;4;336979
+Sedan;65;F;3;337046
+Sedan;62;F;3;337063
+Sedan;71;F;3;337141
+Sedan;70;F;3;337234
+Sedan;62;F;3;337276
+Station Wagon;31;M;2;337338
+Station Wagon;42;M;2;337344
+Sedan;71;F;3;337369
+Sedan;61;F;3;337527
+Station Wagon;31;M;3;337652
+Sedan;64;F;4;337657
+Sedan;61;F;4;337714
+Station Wagon;28;M;2;337720
+Sedan;61;F;4;337840
+Station Wagon;32;M;2;337861
+Sedan;72;F;3;337895
+Sedan;71;F;3;337910
+Sedan;70;F;3;337993
+Station Wagon;29;M;2;338083
+Sedan;63;F;3;338172
+Station Wagon;32;M;3;338324
+Sedan;74;F;3;338348
+Sedan;61;F;3;338405
+Sedan;74;F;3;338417
+Sedan;62;F;3;338442
+Sedan;64;F;3;338487
+Station Wagon;44;M;2;338522
+Sedan;61;F;4;338634
+Sedan;62;F;3;338725
+Sedan;65;F;4;338871
+Sedan;62;F;3;338883
+Sedan;60;F;3;338898
+Sedan;74;F;3;338972
+Sedan;64;F;3;339062
+Sedan;63;F;4;339069
+Sedan;65;F;3;339082
+Station Wagon;40;M;2;339106
+Sedan;63;F;4;339143
+Station Wagon;33;M;2;339238
+Station Wagon;30;M;2;339256
+Sedan;63;F;3;339376
+Station Wagon;32;M;3;339458
+Sedan;63;F;3;339460
+Station Wagon;33;M;2;339479
+Sedan;61;F;4;339561
+Station Wagon;32;M;3;339629
+Station Wagon;41;M;2;339677
+Sedan;64;F;3;339709
+Sedan;63;F;3;339759
+Sedan;61;F;3;339792
+Station Wagon;41;M;2;339889
+Sedan;70;F;4;339889
+Sedan;75;F;4;339959
+Sedan;62;F;3;340013
+Sedan;64;F;4;340217
+Sedan;74;F;3;340247
+Station Wagon;41;F;3;340296
+Station Wagon;44;M;2;340386
+Sedan;64;F;3;340428
+Sedan;60;F;3;340484
+Station Wagon;41;M;3;340592
+Sedan;64;F;3;340680
+Sedan;60;F;3;340731
+Sedan;64;F;4;340796
+Sedan;74;F;3;340877
+Sedan;61;F;4;340920
+Sedan;74;F;3;340963
+Sedan;75;F;3;341078
+Sedan;74;F;4;341093
+Station Wagon;41;M;2;341117
+Sedan;61;F;3;341120
+Sedan;61;F;3;341169
+Sedan;64;F;3;341276
+Sedan;62;F;3;341464
+Sedan;61;F;3;341477
+Station Wagon;40;M;3;341581
+Sedan;63;F;4;341605
+Sedan;71;F;4;341668
+Sedan;64;F;3;341715
+Sedan;62;F;4;341734
+Sedan;61;F;3;341792
+Station Wagon;42;M;2;341808
+Sedan;64;F;4;341855
+Sedan;74;F;3;341870
+Station Wagon;44;M;2;341905
+Sedan;73;F;3;341974
+Station Wagon;43;M;2;341978
+Station Wagon;43;M;2;342020
+Station Wagon;40;M;3;342062
+Sedan;61;F;4;342095
+Station Wagon;41;M;2;342120
+Station Wagon;42;M;2;342200
+Sedan;60;F;3;342209
+Station Wagon;43;M;2;342344
+Station Wagon;45;M;2;342509
+Station Wagon;40;M;2;342684
+Sedan;63;F;4;342722
+Sedan;63;F;3;342735
+Station Wagon;45;M;2;342826
+Station Wagon;44;M;2;342834
+Sedan;63;F;3;342841
+Sedan;73;F;4;342872
+Sedan;72;F;3;343030
+Sedan;62;F;3;343057
+Station Wagon;42;M;2;343142
+Sedan;71;F;3;343155
+Sedan;62;F;3;343164
+Sedan;63;F;3;343317
+Sedan;75;F;4;343319
+Station Wagon;41;M;2;343502
+Sedan;75;F;4;343570
+Station Wagon;41;M;2;343680
+Sedan;74;F;3;343741
+Station Wagon;43;M;2;343746
+Station Wagon;43;M;2;343797
+Sedan;74;F;3;343927
+Sedan;64;F;3;343934
+Sedan;73;F;4;343946
+Sedan;65;F;3;343974
+Station Wagon;40;M;3;343997
+Station Wagon;44;M;2;344016
+Sedan;62;F;3;344435
+Sedan;71;F;3;344451
+Sedan;62;F;3;344526
+Station Wagon;44;M;3;344620
+Station Wagon;40;M;3;344674
+Sedan;65;F;4;344735
+Station Wagon;44;M;3;344756
+Sedan;62;F;3;344764
+Sedan;63;F;3;344952
+Sedan;70;F;4;344966
+Sedan;64;F;3;344969
+Sedan;61;F;3;344984
+Sedan;64;F;4;345092
+Station Wagon;60;F;2;345136
+Sedan;63;F;4;345186
+Sedan;65;F;4;345434
+Station Wagon;61;F;2;345496
+Station Wagon;61;F;2;345554
+Sedan;64;F;3;345566
+Station Wagon;61;F;2;345591
+Station Wagon;41;M;2;345644
+Station Wagon;60;F;2;345773
+Station Wagon;43;M;2;345810
+Sedan;61;F;3;345869
+Station Wagon;44;M;2;345891
+Station Wagon;40;M;2;345914
+Sedan;63;F;4;345968
+Sedan;60;F;4;345993
+Station Wagon;61;F;3;346048
+Station Wagon;63;F;2;346109
+Sedan;60;F;4;346112
+Station Wagon;45;M;2;346163
+Sedan;63;F;3;346247
+Station Wagon;41;M;3;346274
+Station Wagon;60;F;2;346279
+Station Wagon;63;F;2;346354
+Station Wagon;44;M;3;346390
+Station Wagon;64;F;2;346401
+Sedan;61;F;3;346426
+Sedan;63;F;3;346456
+Station Wagon;64;F;2;346718
+Station Wagon;43;M;2;346719
+Sedan;64;F;3;346913
+Station Wagon;62;F;2;347069
+Station Wagon;40;F;3;347151
+Station Wagon;62;F;2;347293
+Station Wagon;61;F;3;347316
+Station Wagon;65;F;2;347364
+Sedan;64;F;3;347397
+Station Wagon;43;M;2;347440
+Sedan;61;F;4;347552
+Station Wagon;44;M;2;347578
+Station Wagon;40;M;3;347600
+Sedan;60;F;3;347692
+Sedan;64;F;4;347848
+Sedan;62;F;3;348129
+Sedan;61;F;3;348329
+Sedan;62;F;4;348471
+Station Wagon;43;M;3;348532
+Station Wagon;65;F;3;348749
+Sedan;63;F;4;348758
+Sedan;61;F;4;348859
+Station Wagon;63;F;3;348975
+Station Wagon;43;M;3;349077
+Station Wagon;44;F;3;349096
+Station Wagon;44;M;2;349197
+Station Wagon;42;M;2;349236
+Station Wagon;43;M;2;349255
+Station Wagon;42;M;2;349408
+Station Wagon;62;F;3;349478
+Sedan;64;F;3;349536
+Station Wagon;62;F;2;349566
+Station Wagon;40;M;3;349585
+Station Wagon;43;M;2;349610
+Sedan;60;F;3;349802
+Station Wagon;42;M;2;349912
+Station Wagon;45;M;3;350090
+Station Wagon;43;M;2;350147
+Station Wagon;63;F;3;350169
+Station Wagon;61;F;2;350242
+Station Wagon;43;M;2;350763
+Station Wagon;44;M;2;350812
+Station Wagon;65;F;2;350935
+Station Wagon;64;F;3;351085
+Station Wagon;44;M;2;351155
+Station Wagon;63;F;3;351247
+Station Wagon;44;M;2;351286
+Station Wagon;64;F;2;351291
+Station Wagon;62;F;2;351300
+Station Wagon;42;M;3;351553
+Station Wagon;60;F;2;351772
+Station Wagon;64;F;2;351974
+Station Wagon;62;F;2;352085
+Station Wagon;65;F;2;352593
+Station Wagon;64;F;2;352636
+Station Wagon;60;F;3;353491
+Station Wagon;61;F;2;353742
+Station Wagon;64;F;2;353838
+Station Wagon;65;F;2;354089
+Station Wagon;64;F;3;354534
+Station Wagon;62;F;2;354600
+Station Wagon;61;F;2;354632
+Station Wagon;63;F;2;355085
+Station Wagon;62;F;3;355168
+Station Wagon;63;F;2;355849
+Station Wagon;64;F;3;356097
+Station Wagon;64;F;2;356103
+Station Wagon;64;F;3;356189
+Station Wagon;63;F;3;356418
+Station Wagon;61;F;2;356533
+Station Wagon;61;F;2;356765
+Station Wagon;70;F;2;356858
+Station Wagon;63;F;2;356970
+Station Wagon;63;F;2;357297
+Station Wagon;62;F;2;358246
+Station Wagon;61;F;2;358256
+Station Wagon;64;F;2;358449
+Station Wagon;63;F;2;358603
+Station Wagon;61;F;3;358605
+Station Wagon;60;F;2;358613
+Station Wagon;63;F;2;358815
+Station Wagon;64;F;2;358835
+Station Wagon;64;F;3;358838
+Station Wagon;65;F;2;358843
+Station Wagon;62;F;2;358847
+Station Wagon;62;F;2;359027
+Station Wagon;62;F;2;360251
+Station Wagon;64;F;3;360809
+Station Wagon;62;F;3;361171
+Station Wagon;64;F;3;361387
+Station Wagon;64;F;2;361658
+Station Wagon;63;F;3;361805
+Station Wagon;62;F;2;362308
+Station Wagon;64;F;2;362319
+Station Wagon;63;F;2;363722
+Station Wagon;64;F;2;363743
+Station Wagon;62;F;2;364075
+Station Wagon;63;F;2;364491
+Station Wagon;62;F;2;364821
+Station Wagon;62;F;3;364957
+Station Wagon;32;M;2;380095
+Station Wagon;31;M;2;380655
+Station Wagon;33;M;3;380686
+Station Wagon;31;M;2;381041
+Station Wagon;29;M;2;381122
+Station Wagon;30;M;2;381173
+Station Wagon;29;M;3;381568
+Station Wagon;29;M;2;381962
+Station Wagon;31;M;2;382043
+Station Wagon;31;M;3;382221
+Station Wagon;31;M;3;382363
+Station Wagon;31;M;2;382424
+Station Wagon;30;M;3;382898
+Station Wagon;31;M;2;383181
+Station Wagon;32;M;3;383763
+Station Wagon;31;M;2;384258
+Station Wagon;32;M;2;384278
+Station Wagon;33;M;2;384286
+Station Wagon;29;M;3;384317
+Station Wagon;31;M;2;384323
+Station Wagon;31;M;3;384482
+Station Wagon;31;M;2;384592
+Station Wagon;30;M;3;384659
+Station Wagon;28;M;2;384887
+Station Wagon;31;M;2;384955
+Station Wagon;59;M;2;385268
+Station Wagon;59;M;2;385641
+Station Wagon;56;M;2;385677
+Station Wagon;58;M;2;385747
+Station Wagon;33;M;3;385791
+Station Wagon;56;M;2;385826
+Station Wagon;30;M;3;385903
+Station Wagon;29;M;2;386132
+Station Wagon;59;M;2;386136
+Station Wagon;32;M;3;386332
+Station Wagon;57;M;3;386360
+Station Wagon;29;M;2;386374
+Station Wagon;59;M;2;386592
+Station Wagon;31;M;2;386598
+Station Wagon;58;M;2;386827
+Station Wagon;57;M;2;386847
+Station Wagon;56;M;3;386955
+Station Wagon;33;M;2;387072
+Station Wagon;29;M;2;387228
+Station Wagon;55;M;3;387473
+Station Wagon;56;M;3;387484
+Station Wagon;59;M;2;387592
+Station Wagon;58;M;2;387605
+Station Wagon;58;M;2;387664
+Station Wagon;59;M;2;387774
+Station Wagon;56;M;3;388101
+Station Wagon;57;M;2;388166
+Station Wagon;59;M;2;388313
+Station Wagon;29;M;2;388604
+Station Wagon;56;M;2;388674
+Station Wagon;30;M;2;389046
+Station Wagon;29;M;3;389180
+Station Wagon;33;M;2;389274
+Station Wagon;33;M;2;389363
+Station Wagon;31;M;2;389793
+Station Wagon;32;M;2;390046
+MPV;35;M;3;390143
+Station Wagon;60;M;3;390342
+MPV;35;M;3;390395
+MPV;34;M;3;390556
+MPV;32;M;3;390654
+Station Wagon;31;M;2;390829
+MPV;32;M;4;390855
+Station Wagon;33;M;2;390894
+Station Wagon;28;M;2;390980
+MPV;36;M;4;391096
+Station Wagon;32;M;3;391191
+Station Wagon;57;M;3;391211
+Station Wagon;57;M;3;391221
+MPV;35;M;3;391267
+Station Wagon;29;M;3;391314
+Station Wagon;56;F;3;391479
+MPV;32;M;4;391611
+MPV;35;M;3;391937
+MPV;32;M;3;392056
+Station Wagon;30;M;2;392066
+MPV;34;M;3;392185
+Station Wagon;30;F;2;392208
+Station Wagon;31;M;3;392305
+Station Wagon;31;F;2;392441
+Station Wagon;32;M;2;392491
+Station Wagon;33;F;2;392554
+Station Wagon;56;M;2;392575
+MPV;34;M;3;392655
+Station Wagon;30;M;3;392660
+Station Wagon;55;M;2;392965
+Station Wagon;29;F;3;393103
+Station Wagon;59;M;2;393222
+Station Wagon;33;M;3;393242
+Station Wagon;59;M;2;393305
+Station Wagon;57;M;2;393311
+Station Wagon;32;M;2;393484
+MPV;33;M;3;393519
+Station Wagon;59;M;3;393525
+MPV;35;M;3;393582
+Station Wagon;58;M;2;393691
+Station Wagon;29;M;2;393693
+Station Wagon;57;M;3;393740
+MPV;34;M;4;394078
+MPV;33;M;3;394093
+Station Wagon;28;M;2;394112
+Station Wagon;55;M;2;394313
+MPV;35;M;3;394373
+Station Wagon;29;M;2;394665
+MPV;36;M;4;394785
+Station Wagon;57;M;2;394815
+Station Wagon;55;M;2;394943
+MPV;32;M;3;394981
+Station Wagon;32;M;2;394995
+MPV;35;M;4;395076
+Station Wagon;59;M;3;395246
+Station Wagon;58;M;2;395270
+Station Wagon;56;M;3;395366
+Station Wagon;28;M;2;395475
+Station Wagon;55;M;2;395477
+MPV;32;M;4;395671
+MPV;35;M;3;395677
+MPV;33;M;4;395706
+Station Wagon;58;M;3;395713
+Station Wagon;59;M;3;395800
+MPV;34;M;3;395861
+Station Wagon;58;M;2;395926
+Station Wagon;58;M;2;396099
+Station Wagon;57;M;3;396130
+Station Wagon;56;M;2;396319
+Station Wagon;32;M;2;396343
+Station Wagon;33;M;2;396487
+Station Wagon;33;M;2;396505
+MPV;33;M;3;396509
+Station Wagon;28;M;2;396537
+Station Wagon;31;M;3;396569
+Station Wagon;55;M;2;396622
+MPV;36;M;3;396662
+MPV;33;M;4;396687
+Station Wagon;57;M;2;396753
+MPV;34;M;3;397048
+Station Wagon;60;M;3;397174
+Station Wagon;58;M;2;397232
+Station Wagon;57;M;2;397240
+Station Wagon;56;M;3;397350
+MPV;33;M;3;397636
+Station Wagon;56;M;2;397676
+MPV;36;M;3;397711
+Station Wagon;33;M;2;397782
+Station Wagon;29;M;2;397848
+Station Wagon;31;M;2;398122
+Station Wagon;32;M;2;398340
+Station Wagon;55;M;3;398459
+Station Wagon;58;M;3;398533
+Station Wagon;33;F;3;398772
+Station Wagon;30;M;2;398891
+MPV;33;M;3;398985
+Station Wagon;29;M;3;399000
+Station Wagon;56;M;3;399082
+Station Wagon;58;M;2;399103
+Station Wagon;56;M;2;399140
+MPV;31;M;3;399241
+MPV;35;M;4;399540
+Station Wagon;31;M;3;399544
+Station Wagon;60;M;2;399575
+Station Wagon;58;M;2;399621
+MPV;33;M;3;399781
+Station Wagon;59;M;2;399794
+Station Wagon;29;M;2;399826
+Station Wagon;30;M;2;399876
+Station Wagon;31;M;3;399905
+MPV;33;M;4;399973
+MPV;34;M;4;399984
+MPV;32;M;5;400111
+MPV;30;M;3;400117
+MPV;34;M;4;400127
+MPV;34;M;3;400169
+Station Wagon;58;M;2;400180
+MPV;42;F;4;400194
+MPV;45;F;3;400403
+MPV;37;M;5;400408
+MPV;38;M;5;400471
+MPV;33;M;4;400574
+MPV;30;M;4;400643
+MPV;34;M;3;400661
+MPV;36;M;4;400682
+MPV;41;F;3;400763
+MPV;34;M;4;400831
+MPV;35;F;4;400844
+MPV;37;M;5;400855
+MPV;37;M;4;400861
+MPV;41;F;3;400862
+Station Wagon;58;M;2;400875
+MPV;38;M;5;400924
+Station Wagon;59;M;3;400937
+MPV;43;F;3;400956
+MPV;39;M;4;401013
+MPV;40;F;3;401097
+MPV;38;M;4;401097
+MPV;33;M;3;401108
+MPV;36;M;5;401177
+MPV;39;M;4;401178
+MPV;36;F;4;401211
+MPV;35;M;4;401243
+Station Wagon;58;M;2;401261
+MPV;31;M;4;401286
+MPV;33;M;3;401306
+MPV;33;M;3;401361
+MPV;30;M;3;401398
+MPV;45;F;3;401401
+MPV;30;M;4;401414
+MPV;30;M;4;401432
+MPV;34;M;3;401477
+MPV;31;M;5;401558
+Station Wagon;56;M;2;401589
+MPV;33;M;5;401746
+MPV;30;M;4;401749
+Station Wagon;56;M;3;401761
+MPV;41;F;3;401767
+MPV;36;M;3;401798
+Station Wagon;58;M;2;401814
+MPV;29;M;3;401819
+MPV;35;M;4;401822
+MPV;42;F;3;401879
+MPV;30;M;4;401896
+MPV;35;M;4;401919
+MPV;29;M;3;401963
+MPV;32;M;4;401984
+MPV;31;M;3;402006
+MPV;32;M;3;402047
+Station Wagon;59;F;2;402057
+MPV;37;M;4;402204
+Station Wagon;57;M;2;402243
+MPV;34;M;3;402368
+MPV;44;F;4;402388
+MPV;30;M;4;402389
+MPV;37;M;4;402415
+MPV;30;M;4;402427
+MPV;30;M;3;402524
+MPV;34;M;4;402535
+MPV;34;M;3;402541
+MPV;41;F;4;402555
+MPV;31;M;3;402556
+MPV;40;F;3;402586
+MPV;39;M;4;402614
+MPV;33;M;3;402617
+MPV;41;F;3;402633
+MPV;42;F;3;402704
+MPV;36;M;4;402717
+MPV;31;M;4;402873
+Station Wagon;56;M;3;403026
+MPV;38;M;5;403029
+MPV;31;M;4;403127
+Station Wagon;60;M;2;403140
+MPV;31;M;4;403154
+MPV;33;M;3;403180
+MPV;34;M;3;403200
+MPV;31;M;4;403206
+MPV;30;M;4;403215
+MPV;33;M;3;403221
+MPV;32;M;3;403248
+MPV;43;F;4;403251
+Station Wagon;56;M;2;403278
+MPV;43;F;3;403287
+MPV;31;M;3;403288
+MPV;31;M;4;403356
+MPV;31;M;3;403372
+MPV;29;M;4;403377
+MPV;33;M;3;403417
+MPV;38;M;5;403442
+MPV;36;M;4;403515
+MPV;33;M;4;403522
+MPV;36;M;4;403562
+MPV;40;F;3;403778
+Station Wagon;59;M;2;403780
+Station Wagon;56;M;2;403808
+MPV;31;M;4;403879
+MPV;44;F;3;403922
+MPV;33;M;4;403940
+MPV;33;M;3;403993
+MPV;31;M;5;404011
+MPV;40;F;3;404157
+MPV;44;F;3;404206
+Station Wagon;59;M;3;404209
+MPV;43;F;3;404285
+MPV;33;M;3;404341
+MPV;44;F;4;404415
+MPV;39;M;4;404418
+MPV;30;M;3;404422
+MPV;36;M;3;404514
+MPV;32;M;3;404600
+MPV;32;M;3;404604
+MPV;32;M;3;404753
+MPV;42;F;3;404779
+MPV;31;M;4;404883
+MPV;34;M;3;404888
+MPV;44;F;3;404898
+MPV;37;M;5;404966
+MPV;33;M;4;405061
+MPV;37;M;4;405077
+MPV;37;M;5;405090
+MPV;36;M;4;405139
+MPV;29;M;3;405142
+MPV;40;F;4;405270
+MPV;30;M;5;405281
+MPV;44;F;3;405319
+MPV;39;M;5;405323
+MPV;44;F;3;405343
+MPV;37;M;5;405378
+MPV;40;F;3;405396
+MPV;40;F;3;405464
+MPV;33;M;3;405482
+MPV;34;M;3;405498
+MPV;38;M;4;405538
+MPV;35;M;4;405544
+MPV;36;M;3;405676
+MPV;30;M;5;405714
+MPV;35;M;3;405752
+MPV;45;F;4;405846
+MPV;43;F;4;406073
+MPV;42;F;3;406092
+MPV;34;M;3;406140
+MPV;34;M;3;406235
+MPV;45;F;3;406299
+MPV;34;M;3;406324
+MPV;34;M;5;406375
+MPV;37;M;4;406490
+MPV;41;F;3;406541
+MPV;44;F;3;406558
+MPV;42;F;3;406597
+MPV;31;M;3;406756
+MPV;40;F;3;406858
+MPV;35;M;4;406883
+MPV;37;M;4;406909
+MPV;40;F;3;406922
+MPV;44;F;3;407022
+MPV;32;M;4;407058
+MPV;39;M;5;407197
+MPV;40;M;4;407250
+MPV;34;M;4;407252
+MPV;31;M;4;407261
+MPV;33;M;4;407295
+MPV;44;F;4;407388
+MPV;31;M;4;407406
+MPV;38;M;4;407463
+MPV;34;M;3;407544
+MPV;32;M;3;407556
+MPV;30;M;3;407698
+MPV;31;M;3;407723
+MPV;33;M;3;407804
+MPV;44;F;3;407892
+MPV;33;M;4;407901
+MPV;44;F;3;407906
+MPV;30;M;3;407963
+MPV;44;F;3;407968
+MPV;32;M;3;408020
+MPV;36;M;4;408237
+MPV;30;M;3;408252
+MPV;34;M;4;408263
+MPV;32;M;3;408269
+MPV;34;M;4;408280
+MPV;29;M;3;408345
+MPV;32;M;3;408370
+MPV;34;M;3;408404
+MPV;34;M;4;408469
+MPV;36;M;4;408546
+MPV;33;M;3;408575
+MPV;45;F;3;408627
+MPV;34;M;5;408656
+MPV;31;M;5;408723
+MPV;32;M;4;408752
+MPV;32;M;3;408786
+MPV;43;F;4;408808
+MPV;45;F;3;408811
+MPV;34;M;3;408819
+MPV;40;M;5;408878
+MPV;35;M;4;409091
+MPV;30;M;3;409173
+MPV;31;M;4;409177
+MPV;35;F;4;409178
+MPV;34;M;4;409225
+MPV;31;M;4;409333
+MPV;33;M;4;409357
+MPV;34;M;3;409382
+MPV;33;M;3;409566
+MPV;33;M;4;409683
+MPV;34;M;4;409693
+MPV;34;M;4;409757
+MPV;40;F;3;409941
+MPV;40;M;4;410071
+MPV;40;F;4;410083
+MPV;31;F;4;410153
+MPV;42;F;3;410208
+MPV;42;F;3;410208
+MPV;29;F;5;410334
+MPV;39;M;4;410361
+MPV;32;M;4;410523
+MPV;34;M;4;410530
+MPV;31;M;4;410623
+MPV;33;M;5;410660
+MPV;31;F;4;410777
+MPV;41;F;3;410866
+MPV;31;F;5;410871
+MPV;38;M;4;411013
+MPV;41;F;4;411034
+MPV;33;M;3;411058
+MPV;40;M;4;411151
+MPV;31;M;3;411190
+MPV;42;F;4;411219
+MPV;32;F;4;411269
+MPV;31;M;3;411472
+MPV;35;M;4;411729
+MPV;31;M;4;411756
+MPV;44;F;3;411795
+MPV;30;F;5;411868
+MPV;31;M;4;411870
+MPV;37;M;5;411927
+MPV;31;M;4;411950
+MPV;42;F;4;412007
+MPV;31;F;4;412032
+MPV;29;F;4;412053
+MPV;38;M;4;412157
+MPV;45;F;3;412177
+MPV;34;M;4;412179
+MPV;39;M;4;412225
+MPV;31;M;4;412226
+MPV;31;F;4;412301
+MPV;32;M;4;412353
+MPV;32;M;3;412395
+MPV;33;M;3;412396
+MPV;32;M;3;412411
+MPV;30;M;3;412471
+MPV;41;F;4;412477
+MPV;30;F;5;412525
+MPV;33;M;3;412575
+MPV;33;F;5;412836
+MPV;34;F;4;412881
+MPV;40;F;4;412934
+MPV;29;F;5;412935
+MPV;40;M;4;412990
+MPV;30;M;3;413067
+MPV;31;M;3;413077
+MPV;32;F;4;413082
+MPV;30;M;3;413133
+MPV;38;M;4;413157
+MPV;34;M;5;413159
+MPV;38;M;4;413311
+MPV;33;M;1;413338
+MPV;31;F;4;413385
+MPV;40;M;4;413396
+MPV;36;M;4;413412
+MPV;43;F;3;413428
+MPV;33;M;4;413451
+MPV;32;M;3;413598
+MPV;31;F;4;413689
+MPV;32;M;3;413783
+MPV;33;M;3;413946
+MPV;41;F;3;413961
+MPV;39;M;5;413972
+MPV;29;F;4;414013
+MPV;30;F;4;414079
+MPV;42;F;4;414185
+MPV;33;M;4;414207
+MPV;38;M;4;414300
+MPV;31;F;4;414342
+MPV;37;M;5;414361
+MPV;30;M;3;414369
+MPV;34;M;4;414393
+MPV;32;M;4;414396
+MPV;31;M;4;414435
+MPV;33;M;5;414461
+MPV;33;M;4;414677
+MPV;32;F;5;414708
+MPV;32;M;5;414835
+MPV;44;F;4;414852
+MPV;32;M;4;414909
+MPV;29;M;3;414969
+MPV;30;M;5;414971
+MPV;36;M;4;415041
+MPV;31;F;4;415066
+MPV;38;M;5;415205
+MPV;30;F;5;415228
+MPV;44;F;3;415283
+MPV;34;M;5;415303
+MPV;34;M;4;415336
+MPV;32;M;4;415426
+MPV;39;M;4;415502
+MPV;36;F;4;415530
+MPV;34;M;4;415543
+MPV;32;F;4;415545
+MPV;32;M;4;415559
+MPV;34;M;5;415561
+MPV;38;M;4;415565
+MPV;37;M;4;415718
+MPV;36;M;4;415735
+MPV;30;F;4;415949
+MPV;30;M;4;415993
+MPV;33;F;5;416049
+MPV;31;M;4;416068
+MPV;29;F;4;416093
+MPV;38;M;4;416198
+MPV;31;F;4;416478
+MPV;37;M;4;416491
+MPV;33;M;4;416542
+MPV;32;M;4;416634
+MPV;30;F;4;416654
+MPV;35;M;4;416741
+MPV;34;M;4;416853
+MPV;30;M;4;417016
+MPV;30;M;4;417072
+MPV;39;M;5;417075
+MPV;39;M;4;417079
+MPV;32;M;4;417117
+MPV;44;F;3;417122
+MPV;35;M;4;417183
+MPV;29;F;5;417280
+MPV;31;M;4;417298
+MPV;29;M;4;417392
+MPV;33;F;5;417397
+MPV;44;F;4;417408
+MPV;40;M;4;417408
+MPV;31;M;5;417433
+MPV;45;F;3;417484
+MPV;40;F;3;417532
+MPV;32;M;4;417620
+MPV;34;M;4;417663
+MPV;38;M;4;417666
+MPV;37;M;5;417676
+MPV;35;M;5;417718
+MPV;45;F;3;417720
+MPV;36;M;5;417828
+MPV;30;F;5;417842
+MPV;39;M;4;417916
+MPV;33;F;4;417923
+MPV;30;M;4;417929
+MPV;43;F;3;418013
+MPV;30;M;4;418021
+MPV;31;M;4;418069
+MPV;37;M;4;418086
+MPV;41;F;3;418142
+MPV;35;M;3;418168
+MPV;41;F;3;418180
+MPV;36;M;5;418235
+MPV;45;F;3;418298
+MPV;45;F;3;418361
+MPV;30;M;3;418480
+MPV;38;M;4;418489
+MPV;39;M;5;418582
+MPV;36;M;5;418610
+MPV;35;M;4;418695
+MPV;38;M;5;418709
+MPV;42;F;4;418784
+MPV;30;F;4;418785
+MPV;31;M;3;418885
+MPV;33;F;4;419010
+MPV;37;M;4;419069
+MPV;30;F;4;419075
+MPV;40;F;4;419087
+MPV;31;F;4;419187
+MPV;39;M;4;419207
+MPV;37;M;4;419324
+MPV;32;M;4;419334
+MPV;32;M;4;419416
+MPV;31;F;4;419653
+MPV;32;M;3;419663
+MPV;42;F;3;419712
+MPV;32;F;5;419867
+MPV;38;M;4;419885
+MPV;32;M;4;419897
+MPV;31;M;4;419945
+MPV;31;F;4;420478
+MPV;30;F;4;420560
+MPV;34;F;5;420728
+MPV;31;F;4;420839
+MPV;33;F;4;420910
+MPV;33;F;4;421432
+MPV;33;F;5;421833
+MPV;29;F;5;422422
+MPV;30;F;4;422836
+MPV;30;F;5;423144
+MPV;34;F;5;423444
+MPV;33;F;4;424119
+MPV;34;F;4;424402
+MPV;29;F;5;424964
+MPV;32;F;4;425452
+MPV;32;F;4;425567
+MPV;31;F;5;425590
+MPV;29;F;5;425591
+MPV;31;F;4;425593
+MPV;29;F;5;425720
+MPV;30;F;4;426416
+MPV;30;F;5;426452
+MPV;34;F;4;426651
+MPV;29;F;4;427316
+MPV;33;F;4;427771
+MPV;31;F;4;427876
+MPV;32;F;4;427975
+MPV;31;F;5;427989
+MPV;33;F;4;428013
+MPV;33;F;5;428185
+MPV;31;F;4;428219
+MPV;33;F;4;428307
+MPV;31;F;4;428423
+MPV;33;F;4;428535
+MPV;32;F;5;428980
+MPV;30;F;4;429125
+MPV;30;F;4;429191
+MPV;30;F;4;429572
+Sedan;66;M;3;430029
+Sedan;64;M;2;430097
+SUV;38;F;1;430288
+SUV;39;F;1;430450
+SUV;38;F;1;430459
+SUV;36;F;1;430535
+SUV;34;F;2;430724
+SUV;38;F;1;430833
+SUV;35;F;1;431076
+SUV;38;F;1;431118
+SUV;38;F;1;431131
+Sedan;63;M;2;431209
+SUV;38;F;2;431486
+SUV;34;F;1;431667
+Sedan;63;M;2;431724
+SUV;38;F;1;431730
+Sedan;63;M;2;431802
+SUV;39;F;1;431915
+Sedan;67;M;3;431928
+SUV;36;F;1;432014
+Sedan;63;M;2;432156
+SUV;37;F;1;432312
+SUV;38;F;1;432360
+SUV;37;F;1;432453
+Sedan;62;M;2;432619
+SUV;37;F;1;432876
+Sedan;64;F;2;433021
+SUV;39;F;2;433052
+Sedan;63;M;2;433095
+Sedan;66;M;2;433168
+Sedan;62;M;2;433335
+Sedan;64;M;2;433428
+SUV;35;F;1;433496
+SUV;39;F;2;433599
+Sedan;64;M;2;433660
+SUV;37;F;1;433917
+Sedan;65;M;2;433920
+Sedan;64;M;3;434045
+SUV;37;F;1;434079
+Sedan;62;M;2;434145
+Sedan;66;M;2;434252
+SUV;37;F;1;434523
+SUV;34;F;2;434707
+Sedan;66;M;3;434742
+Sedan;63;M;2;435028
+Sedan;64;M;2;435208
+Sedan;63;M;3;435375
+Sedan;64;M;2;435513
+SUV;37;F;1;435871
+Sedan;65;M;3;435938
+Sedan;65;M;2;436024
+Sedan;62;M;2;436028
+Sedan;66;M;2;436056
+Sedan;64;M;2;436360
+Sedan;66;M;2;436562
+SUV;34;F;1;436960
+Sedan;64;M;2;437009
+SUV;38;F;1;437070
+Sedan;64;M;2;437192
+Sedan;65;M;2;437336
+Sedan;63;M;2;437383
+SUV;37;F;1;437439
+Sedan;65;M;3;437465
+Sedan;64;M;2;437804
+Sedan;66;M;3;437934
+Sedan;64;M;2;438312
+SUV;38;F;1;438337
+SUV;35;F;1;438455
+Sedan;66;M;2;438499
+Sedan;66;M;2;438624
+Sedan;66;M;3;438667
+SUV;38;F;1;438678
+SUV;38;F;1;438707
+Sedan;64;M;2;438730
+SUV;38;F;1;438915
+SUV;38;F;2;438952
+SUV;35;F;1;439607
+Sedan;65;M;2;439710
+SUV;37;F;1;440065
+SUV;39;F;1;440143
+Sedan;67;M;2;440294
+Sedan;63;M;3;440476
+SUV;36;F;1;440505
+SUV;38;F;2;440584
+Sedan;62;M;2;440612
+SUV;35;F;1;440634
+SUV;35;F;2;440773
+Sedan;64;M;3;440890
+SUV;36;F;1;441056
+Sedan;63;M;2;441137
+Sedan;64;F;3;441221
+Sedan;64;M;2;441260
+Sedan;64;M;5;441346
+Sedan;63;M;2;441356
+Sedan;66;M;2;441480
+SUV;34;F;1;441533
+Sedan;66;M;2;441632
+Sedan;64;M;3;441940
+SUV;35;F;1;442147
+SUV;37;F;2;442151
+Sedan;64;M;2;442187
+SUV;38;F;1;442643
+Sedan;63;M;2;442669
+SUV;37;F;1;442749
+SUV;39;F;1;443007
+SUV;38;F;2;443074
+SUV;39;F;1;443431
+SUV;39;F;1;443635
+SUV;35;F;2;443639
+SUV;35;F;2;444082
+Sedan;66;M;2;444463
+SUV;35;F;2;444467
+Sedan;67;M;2;444667
+SUV;36;F;1;444730
+SUV;34;F;2;444834
+Sedan;66;M;2;444889
+Sedan;64;M;2;444980
+SUV;38;F;1;445081
+SUV;39;F;1;445437
+Sedan;66;M;2;445596
+Sedan;64;M;2;445597
+Sedan;63;M;2;445664
+Sedan;63;M;3;445906
+Sedan;66;M;2;445964
+Sedan;64;M;2;446028
+SUV;38;F;1;446057
+Sedan;63;M;2;446142
+SUV;34;F;1;446336
+Sedan;65;M;2;446728
+Sedan;65;M;3;446999
+Sedan;67;M;3;447030
+SUV;39;F;1;447087
+Sedan;62;M;2;447244
+Sedan;64;M;2;447422
+SUV;37;F;1;447432
+SUV;34;F;2;447457
+Sedan;64;M;2;448122
+SUV;35;F;1;448402
+SUV;35;F;1;448419
+SUV;37;F;1;448425
+SUV;36;F;2;448594
+Sedan;63;M;3;448764
+SUV;39;F;1;448925
+SUV;35;F;1;449443
+SUV;38;F;1;449535
+SUV;36;F;1;449564
+SUV;37;F;1;449649
+SUV;37;F;1;449658
+Sedan;62;M;3;449805
+SUV;36;F;2;449821
+Sedan;66;M;3;449826
+SUV;34;F;2;449831
+Sportscar;55;M;2;450055
+SUV;34;M;1;450198
+SUV;37;M;2;450257
+SUV;36;F;2;450312
+Sportscar;51;M;2;450377
+SUV;39;F;2;450426
+SUV;39;F;2;450436
+SUV;39;F;3;450450
+SUV;35;M;1;450585
+Sportscar;54;M;2;450640
+SUV;32;M;1;450702
+SUV;37;F;2;450736
+SUV;36;M;1;451030
+SUV;34;M;2;451049
+SUV;36;F;2;451057
+SUV;40;F;2;451069
+SUV;36;M;2;451121
+Sportscar;50;M;3;451171
+Sportscar;51;M;2;451470
+Sportscar;53;M;3;451577
+Sportscar;51;M;2;451727
+SUV;36;F;3;451968
+Sportscar;53;M;2;452016
+SUV;34;M;1;452043
+SUV;38;F;2;452104
+Sportscar;50;M;2;452305
+SUV;35;F;3;452498
+Sportscar;52;M;2;452536
+Sportscar;54;M;2;452652
+SUV;35;F;3;452694
+SUV;39;F;2;452710
+Sportscar;52;M;2;452721
+SUV;37;F;2;452900
+SUV;36;M;1;452947
+Sportscar;54;M;2;452973
+Sportscar;54;M;3;453265
+SUV;35;M;1;453318
+SUV;37;M;1;453408
+SUV;37;F;3;453464
+Sportscar;55;M;2;453471
+SUV;36;M;1;453562
+SUV;37;F;2;453593
+SUV;38;F;2;453682
+Sportscar;54;M;2;453713
+SUV;33;M;1;453749
+Sportscar;52;M;2;453835
+Sportscar;54;M;2;453859
+Sportscar;52;M;2;453867
+Sportscar;51;M;2;453879
+SUV;36;M;2;453880
+Sportscar;50;M;2;454093
+SUV;37;M;1;454106
+Sportscar;55;M;2;454209
+SUV;37;F;2;454256
+SUV;35;M;1;454276
+SUV;35;M;1;454277
+SUV;33;M;2;454484
+SUV;35;F;3;454598
+SUV;37;F;3;454731
+SUV;39;F;2;454821
+Sportscar;50;M;2;454903
+SUV;37;F;2;454923
+Sportscar;54;M;2;455185
+Sportscar;53;M;2;455376
+SUV;33;M;1;455410
+Sportscar;55;M;2;455410
+SUV;40;F;3;455458
+SUV;39;F;2;456003
+Sportscar;55;M;2;456016
+SUV;37;M;2;456079
+SUV;37;F;3;456212
+Sportscar;54;M;2;456248
+SUV;39;F;3;456431
+SUV;36;F;2;456482
+Sportscar;53;M;2;456534
+Sportscar;53;M;2;456709
+SUV;35;M;1;456764
+SUV;36;M;2;456808
+SUV;32;M;1;456912
+SUV;38;F;2;457257
+SUV;37;M;2;457348
+SUV;36;F;2;457384
+SUV;35;M;1;457402
+SUV;35;M;2;457403
+SUV;38;F;2;457892
+Sportscar;52;M;3;458305
+Sportscar;53;M;2;458367
+SUV;34;M;1;458488
+Sportscar;50;M;3;458515
+SUV;37;F;2;458536
+SUV;39;F;2;458570
+SUV;36;M;1;458621
+SUV;34;M;2;458707
+SUV;37;M;1;458826
+Sportscar;53;M;2;458959
+SUV;36;M;1;458988
+Sportscar;55;M;3;459077
+Sportscar;53;M;2;459134
+Sportscar;54;M;2;459204
+SUV;36;F;2;459309
+Sportscar;51;M;2;459482
+Sportscar;53;M;2;459495
+Sportscar;51;M;2;459597
+SUV;35;M;1;459680
+SUV;33;M;1;459727
+MPV;38;M;5;460057
+SUV;38;F;3;460088
+SUV;34;M;1;460201
+MPV;41;M;5;460287
+SUV;35;M;1;460334
+SUV;38;F;2;460379
+SUV;36;M;2;460392
+MPV;40;M;5;460416
+SUV;38;F;2;460420
+SUV;35;M;1;460431
+Sportscar;54;M;2;460436
+Sportscar;53;M;3;460444
+MPV;41;M;5;460486
+SUV;36;F;2;460629
+SUV;36;F;2;460855
+MPV;41;M;5;460947
+Sportscar;52;M;2;460991
+SUV;34;F;2;461036
+MPV;42;M;5;461038
+Sportscar;54;M;2;461128
+MPV;39;M;5;461214
+SUV;35;M;1;461286
+MPV;40;M;6;461312
+SUV;36;M;1;461325
+MPV;40;M;5;461413
+SUV;36;F;2;461642
+SUV;34;M;1;461720
+MPV;41;M;5;461734
+SUV;36;F;2;461735
+Sportscar;53;M;3;461747
+MPV;43;M;5;461755
+SUV;34;M;2;461814
+MPV;39;M;5;461827
+Sportscar;51;M;2;462015
+MPV;42;M;6;462029
+SUV;37;F;3;462103
+MPV;39;M;5;462155
+SUV;37;F;2;462256
+SUV;33;M;1;462393
+SUV;35;M;1;462419
+Sportscar;51;M;2;462447
+MPV;38;M;5;462455
+SUV;39;F;3;462465
+Sportscar;55;M;3;462480
+SUV;38;F;2;462635
+Sportscar;54;M;2;462655
+SUV;39;F;3;462735
+SUV;32;M;1;462745
+SUV;32;M;1;462820
+SUV;39;F;3;462828
+MPV;40;M;5;462959
+SUV;36;M;2;463083
+MPV;42;M;5;463185
+MPV;41;M;5;463232
+MPV;43;M;6;463234
+SUV;34;M;2;463353
+MPV;43;M;6;463544
+Sportscar;53;M;2;463614
+SUV;38;F;2;463615
+SUV;38;F;2;463818
+SUV;35;F;2;463847
+SUV;40;F;3;463939
+SUV;35;F;2;464156
+MPV;42;M;6;464174
+SUV;33;M;2;464206
+Sportscar;53;M;2;464283
+MPV;42;M;5;464373
+SUV;39;F;2;464429
+SUV;35;F;2;464473
+Sportscar;51;M;2;464497
+SUV;36;M;2;464590
+Sportscar;54;M;2;464592
+Sportscar;52;M;2;464602
+Sportscar;54;M;2;464614
+Sportscar;53;M;2;464665
+MPV;42;M;5;464745
+Sportscar;53;M;2;464880
+SUV;33;M;1;465044
+Sportscar;54;M;2;465123
+SUV;36;M;2;465196
+SUV;40;F;3;465199
+MPV;39;M;6;465237
+Sportscar;53;M;2;465252
+SUV;34;M;1;465435
+SUV;38;F;3;465442
+Sportscar;54;M;2;465526
+MPV;40;M;5;465592
+SUV;33;M;1;465640
+Sportscar;50;M;2;465662
+SUV;39;F;2;465668
+SUV;35;M;2;465693
+SUV;34;M;1;465766
+SUV;36;M;1;465871
+SUV;38;F;3;465940
+Sportscar;55;M;2;466021
+SUV;38;F;2;466111
+MPV;42;M;5;466114
+SUV;36;M;1;466130
+Sportscar;51;M;3;466134
+Sportscar;52;M;2;466156
+MPV;40;M;5;466159
+SUV;39;F;2;466207
+MPV;40;M;6;466234
+Sportscar;54;M;2;466304
+Sportscar;54;M;2;466473
+MPV;39;M;5;466698
+MPV;38;M;6;466809
+SUV;37;M;2;466818
+SUV;37;M;1;466878
+SUV;34;M;1;466933
+SUV;37;F;2;466991
+Sportscar;55;M;2;467071
+SUV;36;F;3;467081
+MPV;40;M;5;467102
+SUV;36;M;1;467105
+Sportscar;54;M;3;467106
+Sportscar;50;M;2;467112
+SUV;37;F;2;467460
+MPV;40;M;6;467660
+SUV;35;M;1;467737
+SUV;32;M;1;467769
+MPV;39;M;5;467812
+Sportscar;53;M;3;467828
+SUV;33;M;1;467840
+SUV;37;F;2;467858
+SUV;37;M;1;467889
+MPV;39;M;5;467932
+SUV;33;M;2;468130
+Sportscar;53;M;3;468174
+SUV;36;F;3;468238
+SUV;40;F;2;468297
+SUV;37;M;2;468316
+SUV;34;M;1;468352
+SUV;39;F;2;468353
+SUV;39;F;2;468432
+Sportscar;51;M;2;468449
+MPV;43;M;5;468527
+MPV;40;M;5;468590
+SUV;33;M;2;468683
+SUV;34;M;1;468737
+SUV;36;M;2;468820
+MPV;42;M;5;468982
+MPV;43;M;5;468997
+SUV;35;M;1;469085
+SUV;38;F;2;469172
+MPV;40;M;5;469262
+SUV;39;F;2;469279
+SUV;37;F;2;469346
+SUV;32;M;1;469367
+SUV;35;F;3;469381
+SUV;40;F;2;469383
+MPV;40;M;6;469409
+MPV;39;M;5;469467
+MPV;39;M;5;469503
+SUV;38;F;3;469519
+SUV;37;F;2;469573
+MPV;42;M;5;469617
+Sportscar;53;M;2;469684
+MPV;38;M;5;469713
+Sportscar;54;M;2;469715
+SUV;39;F;2;469789
+MPV;42;M;5;469791
+Sportscar;55;M;3;469801
+SUV;36;F;2;469802
+SUV;38;F;2;469814
+SUV;37;M;1;469835
+SUV;36;M;2;469897
+Sportscar;54;M;2;469989
+MPV;41;M;5;470227
+MPV;39;M;5;470551
+MPV;41;M;5;471422
+MPV;39;M;5;472924
+MPV;40;M;6;473197
+MPV;39;M;5;473438
+MPV;41;M;5;473460
+MPV;38;M;5;473802
+MPV;38;M;6;474392
+MPV;41;M;5;474495
+MPV;39;M;5;475385
+MPV;39;M;6;475714
+MPV;40;M;5;476237
+MPV;39;M;5;476332
+MPV;42;M;5;476365
+MPV;39;M;5;476676
+MPV;39;M;5;476771
+MPV;40;M;5;477451
+MPV;42;M;5;477562
+MPV;39;M;5;477698
+MPV;42;M;6;477863
+MPV;42;M;5;477875
+MPV;40;M;6;478248
+MPV;40;M;6;478466
+MPV;39;M;5;478479
+MPV;40;M;5;478492
+MPV;42;M;5;478563
+Station Wagon;43;F;4;478660
+MPV;38;M;6;478968
+MPV;40;M;5;479081
+MPV;42;M;5;479831
+MPV;41;M;5;479943
+SUV;44;M;3;510046
+SUV;41;M;2;510281
+SUV;41;M;3;510547
+SUV;44;M;2;510885
+SUV;40;M;2;511110
+SUV;41;M;2;511406
+SUV;43;M;2;511454
+SUV;43;M;2;511664
+SUV;40;M;2;511977
+SUV;43;M;3;511981
+SUV;43;M;3;512456
+SUV;40;M;2;512744
+SUV;40;M;2;513073
+SUV;42;M;2;513598
+SUV;42;M;2;513659
+SUV;44;M;3;513695
+SUV;41;M;2;513872
+SUV;41;F;2;513965
+SUV;44;M;3;514118
+SUV;44;M;2;514356
+SUV;44;M;2;514397
+SUV;41;M;2;514497
+SUV;40;M;2;514525
+SUV;43;M;2;514762
+SUV;40;M;2;515045
+SUV;44;M;2;515158
+SUV;42;M;2;515499
+SUV;42;M;2;516002
+SUV;42;M;2;516908
+SUV;44;M;3;517129
+SUV;42;M;2;517981
+SUV;40;M;2;518470
+SUV;41;M;3;518489
+SUV;41;M;2;518532
+SUV;44;M;2;519252
+SUV;44;M;3;519261
+SUV;41;M;2;519652
+Sportscar;42;M;1;520010
+SUV;44;M;2;520123
+SUV;42;M;2;520296
+SUV;41;M;2;520349
+SUV;44;M;3;520424
+SUV;44;M;3;520457
+Sportscar;42;M;0;520472
+Sportscar;45;M;1;520482
+SUV;41;M;2;520593
+SUV;41;M;3;520739
+Sportscar;40;M;0;520764
+SUV;44;M;3;520806
+SUV;43;M;3;520819
+SUV;43;M;2;520831
+Sportscar;42;M;0;520898
+SUV;45;M;2;521001
+SUV;41;M;2;521122
+Sportscar;44;M;1;521330
+SUV;43;M;3;521667
+Sportscar;41;M;1;521891
+SUV;44;M;3;521901
+Sportscar;43;M;0;521933
+SUV;45;M;2;522054
+SUV;43;M;2;522242
+SUV;44;M;2;522439
+SUV;40;M;3;522625
+Sportscar;40;M;0;522712
+SUV;40;M;2;522738
+Sportscar;43;M;0;522826
+Sportscar;45;M;0;523291
+SUV;40;M;3;523321
+SUV;40;M;2;523404
+SUV;42;M;2;523441
+SUV;42;M;3;523477
+Sportscar;44;M;0;523510
+SUV;42;M;2;523515
+Sportscar;41;M;1;523561
+Sportscar;40;M;0;523652
+SUV;42;M;3;523878
+SUV;40;M;3;523954
+SUV;42;M;2;524126
+SUV;42;M;2;524148
+SUV;43;M;2;524155
+Sportscar;45;M;0;524161
+SUV;45;M;2;524185
+Sportscar;42;M;0;524283
+Sportscar;42;M;0;524305
+Sportscar;44;M;0;524317
+SUV;44;M;2;524439
+SUV;41;M;2;524740
+Sportscar;40;M;1;524745
+SUV;43;M;2;524831
+SUV;41;M;2;524922
+Sportscar;44;M;0;524946
+SUV;42;M;2;524963
+SUV;41;M;2;524990
+Sportscar;42;M;0;525038
+Sportscar;42;M;1;525060
+Sportscar;42;M;0;525205
+Sportscar;42;M;0;525302
+Sportscar;42;M;0;525306
+SUV;44;M;2;525343
+Sportscar;45;M;0;525503
+SUV;42;M;2;525542
+SUV;41;M;2;525591
+SUV;42;M;2;525632
+SUV;42;M;3;525791
+SUV;42;M;2;525794
+SUV;43;M;3;525853
+SUV;42;M;2;525855
+SUV;41;M;2;525937
+SUV;44;M;2;526027
+Sportscar;43;M;0;526103
+SUV;41;M;2;526133
+SUV;41;M;2;526178
+Sportscar;44;M;1;526200
+Sportscar;43;M;0;526210
+Sportscar;45;M;1;526256
+SUV;44;M;2;526300
+SUV;40;M;3;526617
+Sportscar;43;M;0;526636
+Sportscar;43;M;0;526721
+Sportscar;42;M;0;526785
+SUV;40;M;3;526805
+SUV;43;M;3;526874
+SUV;44;M;2;527088
+SUV;44;M;2;527120
+SUV;43;M;2;527201
+SUV;41;M;2;527304
+SUV;44;M;3;527439
+SUV;42;M;2;527600
+Sportscar;42;M;1;527696
+Sportscar;42;M;0;527849
+SUV;45;M;2;528082
+SUV;40;M;2;528175
+SUV;41;M;2;528201
+SUV;40;M;3;528237
+SUV;41;M;2;528534
+SUV;41;M;2;528676
+Sportscar;44;M;1;528684
+SUV;41;M;2;528763
+Sportscar;42;M;0;528846
+SUV;40;M;3;528873
+SUV;41;M;2;528911
+SUV;42;M;2;528946
+Sportscar;44;M;0;529031
+SUV;42;M;3;529130
+SUV;43;M;2;529133
+SUV;43;M;2;529220
+SUV;43;M;3;529278
+SUV;45;M;2;529314
+SUV;44;M;2;529339
+SUV;41;M;2;529423
+Sportscar;43;M;0;529461
+Sportscar;44;M;0;529668
+Sportscar;43;M;1;529784
+SUV;44;M;3;529784
+Sportscar;44;M;0;530021
+Sportscar;41;M;0;530109
+SUV;43;M;2;530170
+Sportscar;44;M;0;530310
+SUV;44;M;2;530614
+Sportscar;44;M;1;530631
+Sportscar;41;M;0;530792
+Sportscar;41;M;1;530796
+Sportscar;40;M;0;531058
+SUV;44;M;2;531082
+SUV;44;M;2;531100
+Sportscar;44;M;0;531311
+SUV;43;M;2;531326
+SUV;42;M;2;531374
+SUV;41;M;2;531401
+SUV;44;M;2;531427
+Sportscar;45;M;0;531543
+Sportscar;42;M;0;531841
+SUV;44;M;2;531957
+SUV;42;M;2;532108
+SUV;43;M;2;532434
+SUV;44;M;3;533140
+SUV;40;M;2;533164
+Sportscar;43;M;1;533177
+Sportscar;42;M;0;533202
+SUV;40;M;2;533247
+Sportscar;44;M;0;533507
+SUV;40;M;2;533749
+SUV;44;M;2;533978
+Sportscar;41;M;1;534092
+SUV;44;M;2;534113
+Sportscar;41;M;0;534131
+Sportscar;44;M;0;534132
+Sportscar;41;M;0;534162
+Sportscar;44;M;0;534322
+SUV;41;M;2;534406
+Sportscar;40;M;1;534789
+SUV;45;M;2;534789
+Sportscar;45;M;0;535093
+Sportscar;44;M;1;535810
+SUV;43;M;2;535930
+SUV;42;M;2;536176
+Sportscar;41;M;0;536276
+Sportscar;42;M;1;536288
+SUV;44;M;2;536300
+Sportscar;42;M;0;536365
+Sportscar;43;M;1;536433
+SUV;43;M;2;536516
+SUV;45;M;2;536561
+SUV;42;M;2;536582
+SUV;42;M;2;536804
+SUV;42;M;2;536865
+SUV;43;M;2;537005
+Sportscar;41;M;0;537248
+Sportscar;41;M;0;537275
+Sportscar;42;M;0;537290
+Sportscar;43;M;0;537300
+Sportscar;43;M;0;537372
+SUV;42;M;2;537482
+Sportscar;41;M;0;537669
+SUV;41;M;2;537690
+SUV;42;M;3;538054
+SUV;43;M;2;538147
+SUV;41;M;2;538404
+SUV;41;M;2;538563
+SUV;41;M;2;538590
+Sportscar;45;M;0;538821
+Sportscar;42;M;1;538933
+SUV;41;M;2;539034
+SUV;45;M;3;539125
+SUV;42;M;2;539126
+Sportscar;44;M;0;539477
+Sportscar;44;M;0;539594
+SUV;44;M;2;539719
+Sportscar;39;M;0;550031
+SUV;44;F;2;550038
+SUV;45;F;2;550135
+SUV;46;F;3;550278
+SUV;50;F;3;550306
+Sportscar;39;M;1;550519
+Sportscar;41;M;0;550648
+SUV;49;F;2;550729
+SUV;47;F;2;550739
+SUV;46;F;3;550788
+Sportscar;39;M;1;550977
+SUV;46;F;2;550978
+SUV;47;F;2;550979
+SUV;45;F;2;551010
+Sportscar;39;M;0;551117
+Sportscar;41;M;0;551313
+Sportscar;39;M;1;551319
+SUV;45;F;2;551326
+SUV;46;F;2;551395
+Sportscar;41;M;0;551464
+SUV;47;F;2;551474
+Sportscar;43;M;0;551502
+Sportscar;39;M;1;551756
+SUV;48;F;2;551812
+Sportscar;42;M;0;551974
+Sportscar;43;M;0;552009
+Sportscar;39;M;1;552108
+Sportscar;40;M;0;552109
+SUV;46;F;2;552148
+Sportscar;42;M;0;552197
+SUV;49;F;2;552283
+SUV;45;F;2;552308
+Sportscar;40;M;0;552536
+Sportscar;40;M;0;552612
+SUV;46;F;3;552698
+SUV;45;F;2;552718
+Sportscar;38;M;0;552795
+SUV;46;F;2;552819
+SUV;43;F;3;552943
+Sportscar;39;M;0;552988
+SUV;49;F;3;553039
+SUV;46;F;3;553124
+SUV;44;F;3;553175
+SUV;46;F;3;553183
+Sportscar;38;M;1;553217
+Sportscar;42;M;0;553221
+Sportscar;43;M;0;553515
+SUV;47;F;2;553581
+SUV;47;F;3;553976
+SUV;44;F;3;554003
+SUV;50;F;2;554182
+SUV;47;F;2;554197
+SUV;44;F;2;554384
+SUV;46;F;2;554472
+SUV;50;F;2;554606
+SUV;46;F;3;554612
+SUV;43;F;2;554671
+Sportscar;40;M;0;554789
+SUV;44;F;2;554855
+SUV;45;F;2;554855
+SUV;47;F;2;554862
+Sportscar;42;M;0;554912
+SUV;46;F;2;554925
+SUV;44;F;3;555039
+SUV;46;F;2;555093
+SUV;46;F;3;555126
+SUV;44;F;2;555172
+SUV;47;F;2;555191
+SUV;49;F;2;555201
+SUV;47;F;2;555213
+SUV;46;F;2;555626
+SUV;46;F;3;555698
+SUV;49;F;2;556024
+SUV;47;F;2;556055
+SUV;44;F;2;556087
+SUV;47;F;3;556114
+SUV;47;F;2;556169
+SUV;47;F;2;556230
+Sportscar;41;M;0;556358
+SUV;48;F;3;556405
+SUV;48;F;2;556449
+Sportscar;38;M;0;556562
+Sportscar;39;M;1;556726
+SUV;48;F;3;556746
+Sportscar;40;M;0;556815
+SUV;46;F;2;557173
+Sportscar;39;M;1;557232
+Sportscar;40;M;0;557326
+Sportscar;42;M;1;557596
+Sportscar;39;M;0;557608
+Sportscar;42;M;0;557726
+SUV;49;F;2;557733
+SUV;44;F;2;557905
+SUV;47;F;2;557910
+SUV;44;F;2;558015
+Sportscar;41;M;0;558074
+Sportscar;42;M;0;558378
+SUV;46;F;3;558661
+Sportscar;40;M;1;558748
+Sportscar;43;M;1;558769
+Sportscar;39;M;1;559150
+SUV;45;F;3;559162
+SUV;46;F;3;559652
+SUV;47;F;2;559674
+SUV;47;F;2;559784
+Sportscar;42;M;1;559808
+SUV;45;F;2;559808
+SUV;46;F;3;559844
+SUV;44;F;3;559883
+SUV;46;F;2;560089
+SUV;47;F;3;560095
+SUV;48;F;2;560113
+Sportscar;43;M;0;560187
+SUV;44;F;2;560503
+SUV;45;F;2;560618
+SUV;47;F;2;560900
+Sportscar;39;M;1;560902
+SUV;48;F;2;560925
+Sportscar;43;M;0;560977
+Sportscar;43;M;0;560999
+SUV;48;F;2;561581
+SUV;49;F;2;561688
+SUV;47;F;2;561985
+SUV;47;F;2;562031
+SUV;48;F;2;562056
+SUV;49;F;3;562127
+SUV;45;F;3;562256
+Sportscar;42;M;1;562327
+SUV;44;F;2;562597
+Sportscar;38;M;0;562613
+SUV;45;F;2;562873
+SUV;47;F;2;562985
+SUV;48;F;2;562990
+SUV;44;F;2;562993
+SUV;45;F;3;562993
+SUV;49;F;2;563009
+Sportscar;39;M;0;563033
+SUV;49;F;2;563045
+SUV;49;F;3;563066
+SUV;47;F;3;563109
+Sportscar;39;M;1;563121
+Sportscar;38;M;0;563214
+SUV;43;F;3;563233
+Sportscar;40;M;0;563304
+SUV;46;F;2;563347
+Sportscar;39;M;1;563435
+SUV;47;F;2;563591
+SUV;45;F;2;563713
+SUV;47;F;2;563791
+SUV;45;F;2;563830
+SUV;50;F;3;563882
+Sportscar;39;M;1;563882
+SUV;46;F;3;563959
+SUV;48;F;2;564036
+SUV;44;F;3;564049
+SUV;48;F;2;564126
+SUV;45;F;2;564167
+Sportscar;40;M;1;564217
+SUV;47;F;2;564243
+SUV;46;F;2;564378
+Sportscar;40;M;0;564447
+SUV;45;F;2;564547
+SUV;47;F;2;564634
+Sportscar;41;M;0;564820
+SUV;43;F;2;564854
+SUV;49;F;3;564961
+SUV;46;F;3;565108
+SUV;47;F;2;565270
+SUV;49;F;2;565276
+Sportscar;43;M;0;565355
+SUV;43;F;2;565461
+SUV;46;F;3;565661
+SUV;46;F;2;565822
+Sportscar;40;M;1;565908
+Sportscar;41;M;0;566010
+SUV;43;F;2;566013
+Sportscar;38;M;0;566154
+Sportscar;32;F;1;566271
+SUV;47;F;3;566327
+SUV;45;F;2;566368
+Sportscar;41;M;0;566383
+SUV;48;F;2;566388
+SUV;46;F;3;566410
+SUV;45;F;2;566418
+SUV;46;F;3;566524
+SUV;48;F;2;566544
+SUV;47;F;2;566579
+SUV;50;F;3;566592
+SUV;44;F;2;566726
+Sportscar;38;M;0;566762
+SUV;45;F;2;566772
+SUV;50;F;2;566782
+SUV;49;F;2;566910
+SUV;48;F;3;566910
+SUV;48;F;2;567043
+SUV;47;F;2;567106
+SUV;47;F;2;567250
+Sportscar;43;M;0;567297
+Sportscar;40;M;0;567331
+SUV;48;F;2;567369
+Sportscar;42;M;0;567438
+SUV;49;F;2;567448
+Sportscar;43;M;0;567470
+Sportscar;39;M;0;567544
+Sportscar;38;M;1;567571
+SUV;45;F;3;567630
+SUV;47;F;2;567659
+SUV;45;F;2;567721
+SUV;46;F;2;567841
+Sportscar;40;M;0;568084
+Sportscar;40;M;0;568098
+SUV;49;F;3;568110
+SUV;45;F;3;568122
+SUV;45;F;2;568246
+SUV;43;F;3;568295
+Sportscar;40;M;0;568318
+SUV;46;F;2;568360
+SUV;48;F;2;568368
+Sportscar;39;M;0;568464
+Sportscar;39;M;1;568619
+SUV;45;F;3;568621
+Sportscar;39;M;1;568716
+Sportscar;40;M;0;568967
+SUV;50;F;2;569091
+Sportscar;39;M;0;569294
+SUV;43;F;3;569373
+Sportscar;40;M;1;569559
+Sportscar;39;M;0;569836
+SUV;47;F;2;569854
+SUV;50;M;3;610957
+SUV;53;M;2;611205
+SUV;53;M;2;611710
+SUV;52;M;3;611950
+SUV;50;M;2;612029
+SUV;51;M;2;613068
+SUV;52;M;2;613140
+SUV;51;M;3;613223
+SUV;55;F;3;613245
+SUV;51;M;2;614146
+SUV;55;M;2;614367
+SUV;52;M;3;614443
+SUV;52;M;2;614525
+SUV;54;M;3;615124
+SUV;53;M;3;615124
+SUV;54;M;2;615293
+SUV;53;M;2;615723
+SUV;53;M;2;615969
+SUV;53;M;2;616216
+SUV;53;M;2;616451
+SUV;55;M;2;617261
+SUV;50;F;2;617538
+SUV;55;M;2;617552
+SUV;53;M;2;617758
+SUV;54;M;2;617842
+SUV;52;M;2;617971
+SUV;54;M;2;618064
+SUV;54;M;2;618110
+SUV;55;M;3;618366
+SUV;53;M;2;618427
+SUV;55;M;3;618527
+SUV;52;M;2;618574
+SUV;52;M;2;618578
+SUV;52;M;2;618938
+SUV;52;M;3;618954
+SUV;53;M;2;619201
+SUV;53;F;2;619291
+SUV;52;M;3;619316
+SUV;54;M;2;619442
+SUV;51;M;2;619760
+SUV;53;M;2;619983
+SUV;53;M;2;620051
+SUV;55;M;2;620417
+SUV;51;M;2;620431
+SUV;53;M;3;621078
+SUV;51;M;2;621369
+SUV;54;M;2;621620
+SUV;52;M;3;621627
+SUV;55;M;2;622699
+SUV;51;M;2;622952
+SUV;52;M;2;622990
+SUV;54;M;3;623003
+SUV;54;M;2;623132
+SUV;52;M;2;623314
+SUV;53;M;2;623359
+SUV;54;M;3;623670
+SUV;53;M;3;623719
+SUV;53;M;2;623811
+SUV;54;M;2;623940
+SUV;54;M;2;624494
+SUV;52;M;2;625306
+SUV;52;M;2;625743
+SUV;51;M;3;625903
+SUV;52;M;3;626537
+SUV;53;M;2;626641
+SUV;52;M;2;626739
+SUV;54;M;3;626976
+SUV;52;M;3;627792
+SUV;51;M;3;627986
+SUV;55;M;2;628117
+SUV;52;M;2;628257
+SUV;55;M;2;628389
+SUV;51;M;2;629059
+SUV;54;M;2;629204
+SUV;54;M;2;629737
+SUV;51;M;3;629809
+Sportscar;62;M;4;655143
+Sportscar;62;M;4;655422
+Sportscar;62;M;5;656021
+Sportscar;64;M;4;656025
+Sportscar;62;M;5;656066
+Sportscar;64;M;5;656327
+Sportscar;61;M;5;656443
+Sportscar;60;M;5;656742
+Sportscar;60;M;4;656751
+Sportscar;63;M;5;656965
+Sportscar;64;M;5;656982
+Sportscar;63;F;5;657062
+Sportscar;64;M;4;657705
+Sportscar;61;M;5;657815
+Sportscar;61;M;4;657881
+Sportscar;63;M;4;658137
+Sportscar;60;M;4;658837
+Sportscar;61;M;4;659005
+Sportscar;63;M;5;659187
+Sportscar;62;M;4;659397
+Sportscar;65;M;4;659464
+Sportscar;63;M;4;659543
+Sportscar;63;M;4;660621
+Sportscar;65;M;4;660715
+Sportscar;62;M;4;660735
+Sportscar;62;M;4;660885
+Sportscar;62;M;4;660904
+Sportscar;62;M;4;661222
+Sportscar;61;M;5;661362
+Sportscar;61;M;4;661468
+Sportscar;62;M;4;661726
+Sportscar;60;M;4;661883
+Sportscar;61;M;5;662153
+Sportscar;63;M;5;662421
+Sportscar;61;M;5;662618
+Sportscar;62;M;4;662959
+Sportscar;63;M;4;663666
+Sportscar;61;M;4;663885
+Sportscar;63;M;4;663998
+Sportscar;61;M;4;664296
+Sportscar;62;M;4;664531
+Sportscar;65;M;4;664631
+Sportscar;64;M;4;664669
+Sportscar;61;M;4;665424
+Sportscar;63;M;4;665450
+Sportscar;63;M;4;665685
+Sportscar;64;M;4;666128
+Sportscar;60;F;5;666633
+Sportscar;64;M;4;666765
+Sportscar;63;M;5;667648
+Sportscar;61;M;4;667911
+Sportscar;64;M;5;668698
+Sportscar;61;M;4;668814
+Sportscar;65;M;4;668856
+Sportscar;64;M;4;669139
+Sportscar;61;M;5;669876
+Sportscar;64;M;5;670123
+Sportscar;61;M;4;670795
+Sportscar;61;F;4;670795
+Sportscar;62;M;4;671178
+Sportscar;62;M;4;671293
+Sportscar;64;M;4;671302
+Sportscar;63;M;4;671621
+Sportscar;62;M;4;671711
+Sportscar;62;M;5;672786
+Sportscar;63;M;4;672910
+Sportscar;62;M;4;673703
+Sportscar;63;M;4;673724
+Sportscar;62;F;5;673926
+Sportscar;60;M;4;674277
+Sportscar;65;M;4;674513
+Sportscar;64;M;4;674700
+Sportscar;60;M;4;674790
+Sportscar;62;M;5;674809
+Sportscar;64;M;4;674923
+Sportscar;65;M;5;674984
+SUV;53;M;4;700121
+SUV;48;M;3;700145
+SUV;51;M;4;700449
+SUV;49;M;4;701170
+SUV;51;M;3;701236
+SUV;49;M;4;701720
+SUV;51;M;4;702051
+SUV;51;M;3;702055
+SUV;52;M;3;702109
+SUV;50;M;4;702127
+SUV;48;M;4;702622
+SUV;50;M;4;702696
+SUV;53;M;4;702921
+SUV;53;M;3;702941
+SUV;50;M;3;702972
+SUV;50;M;3;703302
+SUV;53;M;3;703773
+SUV;52;F;3;704728
+SUV;48;M;3;704821
+SUV;52;M;4;704872
+SUV;49;M;3;705283
+SUV;51;M;3;705320
+SUV;51;M;3;705444
+SUV;52;M;3;705626
+SUV;51;M;3;706117
+SUV;51;M;3;706291
+SUV;51;F;4;706351
+SUV;48;M;4;706404
+SUV;50;M;3;707145
+SUV;48;M;3;707361
+SUV;50;M;4;707996
+SUV;52;M;3;708082
+SUV;52;M;3;708566
+SUV;51;M;4;709047
+SUV;51;M;3;709054
+SUV;50;M;3;709069
+SUV;50;F;4;709216
+SUV;52;M;3;709314
+SUV;50;M;3;709473
+SUV;49;M;3;709821
+SUV;49;M;3;709825
+SUV;50;M;3;709890
+SUV;52;M;4;710392
+SUV;53;M;3;711446
+SUV;51;M;4;711555
+SUV;49;M;3;711588
+SUV;52;M;3;712625
+SUV;50;M;3;712710
+SUV;50;M;3;712746
+SUV;49;M;4;713063
+SUV;51;M;3;713280
+SUV;50;M;3;713610
+SUV;49;M;3;714159
+SUV;50;M;3;714298
+SUV;51;M;4;714430
+SUV;51;M;3;715008
+SUV;51;M;3;715015
+SUV;52;M;3;715400
+SUV;53;M;3;715691
+SUV;51;M;3;715776
+SUV;49;M;4;715843
+SUV;52;M;3;715928
+SUV;49;M;3;716715
+SUV;53;M;3;716733
+SUV;49;M;3;716860
+SUV;51;M;3;717049
+SUV;52;M;3;717275
+SUV;48;M;4;717936
+SUV;52;M;4;718098
+SUV;49;M;3;718594
+SUV;51;M;3;718638
+SUV;49;M;4;719506
+SUV;48;M;4;719607
+SUV;52;M;4;719628
+SUV;52;M;3;719713
+SUV;50;M;4;719941
+Sportscar;59;M;2;800373
+Sportscar;56;M;1;800391
+Sportscar;58;M;2;800967
+Sportscar;42;F;1;801051
+Sportscar;55;M;1;801440
+Sportscar;56;M;2;801980
+Sportscar;60;M;1;802170
+Sportscar;56;M;1;802317
+Sportscar;56;M;2;802461
+Sportscar;55;M;1;802593
+Sportscar;57;M;1;802975
+Sportscar;59;M;2;803179
+Sportscar;56;M;2;803223
+Sportscar;59;M;1;803279
+Sportscar;58;M;1;803542
+Sportscar;58;M;1;803642
+Sportscar;57;M;1;804065
+Sportscar;58;M;1;804208
+Sportscar;56;M;2;804208
+Sportscar;57;M;1;804429
+Sportscar;58;M;1;804547
+Sportscar;57;M;2;804812
+Sportscar;58;M;1;805216
+Sportscar;57;M;1;805658
+Sportscar;58;M;1;805721
+Sportscar;59;M;2;805728
+Sportscar;58;M;2;805770
+Sportscar;56;M;2;805808
+Sportscar;58;M;2;806055
+Sportscar;56;M;2;806362
+Sportscar;60;M;2;807580
+Sportscar;55;M;1;807790
+Sportscar;58;M;1;808128
+Sportscar;58;M;1;808971
+Sportscar;60;M;1;809063
+Sportscar;59;M;1;809133
+Sportscar;59;M;1;809236
+Sportscar;57;M;2;809273
+Sportscar;59;M;1;809288
+Sportscar;56;M;1;809382
+Sportscar;59;M;1;809499
+Sportscar;58;M;1;809504
+Sportscar;55;M;1;809871
+Sportscar;57;M;1;810384
+Sportscar;56;M;1;810673
+Sportscar;60;M;1;810686
+Sportscar;57;M;1;810778
+Sportscar;58;M;1;810939
+Sportscar;59;M;1;810961
+Sportscar;57;M;1;811101
+Sportscar;55;M;1;811158
+Sportscar;55;M;2;811159
+Sportscar;58;M;2;811248
+Sportscar;60;M;1;811616
+Sportscar;60;M;1;811838
+Sportscar;56;M;1;812624
+Sportscar;56;M;1;812729
+Sportscar;59;M;1;812781
+Sportscar;59;M;2;813168
+Sportscar;59;M;1;813239
+Sportscar;59;M;1;813280
+Sportscar;55;M;1;813587
+Sportscar;56;M;2;813789
+Sportscar;55;M;1;814879
+Sportscar;58;M;1;815643
+Sportscar;57;M;1;816260
+Sportscar;55;M;2;816295
+Sportscar;60;M;2;816550
+Sportscar;59;M;2;816618
+Sportscar;57;M;1;817170
+Sportscar;60;M;1;817198
+Sportscar;56;M;2;817372
+Sportscar;57;M;1;817549
+Sportscar;59;M;1;817645
+Sportscar;59;M;1;818683
+Sportscar;58;M;1;818929
+Sportscar;58;M;1;819934
