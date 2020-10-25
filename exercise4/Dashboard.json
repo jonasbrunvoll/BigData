@@ -1,0 +1,19 @@
+[
+  {
+    "_id": "xxxxxxxxxxxxxxxxxxxx",
+    "_type": "dashboard",
+    "_source": {
+      "title": "jonasbl - Dashboard",
+      "hits": 0,
+      "description": "BigData - Exercise4",
+      "panelsJSON": "[{\"col\":7,\"id\":\"AXVgkwuWLoREO2tv05bs\",\"panelIndex\":1,\"row\":4,\"size_x\":6,\"size_y\":4,\"type\":\"visualization\"},{\"col\":4,\"id\":\"AXVgskojLoREO2tv05v2\",\"panelIndex\":2,\"row\":1,\"size_x\":3,\"size_y\":3,\"type\":\"visualization\"},{\"col\":1,\"id\":\"AXVgrooGLoREO2tv05tk\",\"panelIndex\":3,\"row\":8,\"size_x\":12,\"size_y\":4,\"type\":\"visualization\"},{\"col\":1,\"id\":\"AXVgwU8ELoREO2tv055I\",\"panelIndex\":4,\"row\":4,\"size_x\":6,\"size_y\":4,\"type\":\"visualization\"},{\"col\":7,\"id\":\"AXVg0Q3CLoREO2tv06Bj\",\"panelIndex\":5,\"row\":1,\"size_x\":6,\"size_y\":3,\"type\":\"visualization\"},{\"col\":1,\"id\":\"AXVg1flhLoREO2tv06EW\",\"panelIndex\":6,\"row\":1,\"size_x\":3,\"size_y\":3,\"type\":\"visualization\"}]",
+      "optionsJSON": "{\"darkTheme\":true}",
+      "uiStateJSON": "{\"P-2\":{\"vis\":{\"defaultColors\":{\"0 - 100\":\"rgb(0,104,55)\"}}},\"P-5\":{\"vis\":{\"defaultColors\":{\"0 - 1\":\"rgb(0,104,55)\",\"1 - 2\":\"rgb(183,224,117)\",\"2 - 3\":\"rgb(253,191,111)\",\"3 - 4\":\"rgb(165,0,38)\"}}}}",
+      "version": 1,
+      "timeRestore": false,
+      "kibanaSavedObjectMeta": {
+        "searchSourceJSON": "{\"filter\":[{\"query\":{\"match_all\":{}}}],\"highlightAll\":true,\"version\":true}"
+      }
+    }
+  }
+]
